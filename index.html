@@ -8,7 +8,7 @@
 
 
 
-  var geocoder, counterLocals = -1;
+  var geocoder, counterLocals = 0;
 
   if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(successFunction, errorFunction);
@@ -114,6 +114,9 @@ function retornoDistancia(response, status){
 
               origem = fullLocal;
               destino = cidades.Logradouro + " " + cidades.Bairro + " " + cidades.Estado; 
+
+              console.log(origem);
+              console.log(destino);
 
               Distancia(origem,destino);
               
