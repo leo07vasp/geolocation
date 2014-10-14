@@ -8,14 +8,6 @@
     "CEP":"29010-480"
   },
   {
-    "Unidade":"Te4ste Londrina",
-    "Logradouro":"Rua Paranaguá, nº 865",
-    "Bairro":"Centro",
-    "Cidade":"Londrina",
-    "Estado":"PR",
-    "CEP":"86010-916"
-  },
-  {
     "Unidade":"ALF Porto de Manaus",
     "Logradouro":"Rua Marques de Santa Cruz, S/ 202",
     "Bairro":"CENTRO",
@@ -2670,6 +2662,22 @@
     "Cidade":"Londrina",
     "Estado":"PR",
     "CEP":"86010-916"
+  },
+    {
+    "Unidade":"CAC Londrina1",
+    "Logradouro":"Av Inglaterra, nº 435",
+    "Bairro":"Igapó",
+    "Cidade":"Londrina",
+    "Estado":"PR",
+    "CEP":"860460-000"
+  },
+    {
+    "Unidade":"CAC Londrina2",
+    "Logradouro":"Av. Ayrton Senna da Silva, nº 550",
+    "Bairro":"Gleba Fazenda Palhano ",
+    "Cidade":"Londrina",
+    "Estado":"PR",
+    "CEP":"86050-460"
   },
   {
     "Unidade":"CAC Macapá",
