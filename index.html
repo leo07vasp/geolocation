@@ -1,0 +1,152 @@
+<head> 
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no"/> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/> 
+<title>Geocoding cidade</title> 
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script> 
+<script type="text/javascript"> 
+
+
+
+  var geocoder, counterLocals = -1;
+
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(successFunction, errorFunction);
+} 
+// latitude and the longitude;
+function successFunction(position) {
+    var lat = position.coords.latitude;
+    var lng = position.coords.longitude;
+    codeLatLng(lat, lng)
+}
+
+function errorFunction(){
+    alert("Geocoder fail");
+}
+
+  function initialize() {
+    geocoder = new google.maps.Geocoder();
+
+}
+
+function Distancia(origem, destino){
+    var service = new google.maps.DistanceMatrixService();
+
+
+         service.getDistanceMatrix(
+              {
+                  //Origem
+                  origins: [origem],
+                  //Destino
+                  destinations: [destino],
+                  //Modo (DRIVING | WALKING | BICYCLING)
+                  travelMode: google.maps.TravelMode.DRIVING,
+                  //Sistema de medida (METRIC | IMPERIAL)
+                  unitSystem: google.maps.UnitSystem.METRIC
+                  //Vai chamar o callback
+              }, retornoDistancia);
+         
+
+function retornoDistancia(response, status){
+
+
+       if (status != google.maps.DistanceMatrixStatus.OK)
+                //Se o status não for "OK"
+                console.log(status);
+            else {
+                //Se o status for OK
+                //Endereço de origem = response.originAddresses
+                //Endereço de destino = response.destinationAddresses
+                //Distância = response.rows[0].elements[0].distance.text
+                //Duração = response.rows[0].elements[0].duration.text
+                /*$('#litResultado').html("<strong>Origem</strong>: " + response.originAddresses +
+                    "<br /><strong>Destino:</strong> " + response.destinationAddresses +
+                    "<br /><strong>Distância</strong>: " + response.rows[0].elements[0].distance.text +
+                    " <br /><strong>Duração</strong>: " + response.rows[0].elements[0].duration.text
+                    );*/
+            DadosDistancia = response;
+            console.log(jQuery(".distance:eq('"+counterLocals+"')"));
+            jQuery(".distance:eq('"+counterLocals+"')").find("span").text(DadosDistancia.rows[0].elements[0].distance.text +" - média de: "+ DadosDistancia.rows[0].elements[0].duration.text);
+             counterLocals++;
+
+            
+                //Atualizar o mapa
+               // $("#map").attr("src", "https://maps.google.com/maps?saddr=" + response.originAddresses + "&daddr=" + response.destinationAddresses + "&output=embed");
+            }
+
+
+}
+
+}
+
+  function codeLatLng(lat, lng) {
+
+    var latlng = new google.maps.LatLng(lat, lng);
+    geocoder.geocode({'latLng': latlng}, function(results, status) {
+      if (status == google.maps.GeocoderStatus.OK) {
+        if (results[1]) {
+         
+         
+             for (var i=0; i<results[0].address_components.length; i++) {
+            for (var b=0;b<results[0].address_components[i].types.length;b++) {
+
+                    city = results[0].address_components[4];
+                    resultadoGeral = results[0];
+                    break;
+                
+            }
+        }
+   
+    //simular cidade     
+    //var busca = "Curitiba",
+    fullLocal = (resultadoGeral.address_components[1].long_name) +" "+ resultadoGeral.address_components[0].long_name +" "+ resultadoGeral.address_components[2].long_name +" "+ resultadoGeral.address_components[3].long_name +" "+ resultadoGeral.address_components[6].short_name;
+    
+   var busca = city.long_name,
+    regex = new RegExp(busca, "i");
+    var cidadeInfos;
+
+    $.getJSON('unidades.json', function (data) {
+
+      
+       $.each(data, function (i, cidades) {
+        
+          if(cidades.Cidade.search(regex) != -1){
+
+              origem = fullLocal;
+              destino = cidades.Logradouro + " " + cidades.Bairro + " " + cidades.Estado; 
+
+              Distancia(origem,destino);
+              
+
+              jQuery("body").append("<h1>Unidade Receita federal</h1>"+" \
+                <h2>"+cidades.Unidade +"</h2>"+" \
+                <p>"+cidades.Logradouro+" - "+" \
+                "+cidades.Bairro +"</p>"+" \
+                <p>"+cidades.Cidade +" - "+cidades.Estado +"</p>"+" \
+                <p class='distance'>Distancia - <span>"+ +"</span></p>"+" \
+                <p>"+cidades.CEP +"</p>"); 
+              
+            }
+        
+        
+       });
+    });
+
+
+
+
+
+        } else {
+          alert("No results found");
+        }
+      } else {
+        alert("Geocoder failed due to: " + status);
+      }
+    });
+  }
+</script> 
+</head> 
+<body onload="initialize()"> 
+
+</body> 
+</html> 

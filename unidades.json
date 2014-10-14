@@ -1,0 +1,3258 @@
+[
+  {
+    "Unidade":"ALF Alfândega do Porto de Vitória",
+    "Logradouro":"Rua Governador José Sette, nº 176, térreo",
+    "Bairro":"Centro",
+    "Cidade":"Vitória",
+    "Estado":"ES",
+    "CEP":"29010-480"
+  },
+  {
+    "Unidade":"Te4ste Londrina",
+    "Logradouro":"Rua Paranaguá, nº 865",
+    "Bairro":"Centro",
+    "Cidade":"Londrina",
+    "Estado":"PR",
+    "CEP":"86010-916"
+  },
+  {
+    "Unidade":"ALF Porto de Manaus",
+    "Logradouro":"Rua Marques de Santa Cruz, S/ 202",
+    "Bairro":"CENTRO",
+    "Cidade":"Manaus",
+    "Estado":"AM",
+    "CEP":"69005-050"
+  },
+  {
+    "Unidade":"ARF Abaetetuba",
+    "Logradouro":"Rua 15 de Agosto, nº 223",
+    "Bairro":"Centro",
+    "Cidade":"Abaetetuba",
+    "Estado":"PA",
+    "CEP":"68440-00"
+  },
+  {
+    "Unidade":"ARF Acaraú",
+    "Logradouro":"Rua João Jaime Ferreira Gomes, nº 178",
+    "Bairro":"Centro",
+    "Cidade":"Acaraú",
+    "Estado":"CE",
+    "CEP":"62580-000"
+  },
+  {
+    "Unidade":"ARF Adamantina",
+    "Logradouro":"Alameda Fernão Dias, nº 314",
+    "Bairro":"Centro",
+    "Cidade":"Adamantina",
+    "Estado":"SP",
+    "CEP":"17800-000"
+  },
+  {
+    "Unidade":"ARF Afogados da Ingazeira",
+    "Logradouro":"Rua Padre Luiz de Campos Góes, nº 439, Térreo",
+    "Bairro":"Manoela Valadares",
+    "Cidade":"Afog. da Ingazeira",
+    "Estado":"PE",
+    "CEP":"56800-000"
+  },
+  {
+    "Unidade":"ARF Alagoinhas",
+    "Logradouro":"Praça JJ Seabra, nº 75",
+    "Bairro":"Centro",
+    "Cidade":"Alagoinhas",
+    "Estado":"BA",
+    "CEP":"48010-140"
+  },
+  {
+    "Unidade":"ARF Alfenas",
+    "Logradouro":"Praça Getúlio Vargas, nº 239",
+    "Bairro":"Centro",
+    "Cidade":"Alfenas",
+    "Estado":"MG",
+    "CEP":"37130-000"
+  },
+  {
+    "Unidade":"ARF Almenara",
+    "Logradouro":"Avenida Olindo de Miranda, nº 442",
+    "Bairro":"Centro",
+    "Cidade":"Almenara",
+    "Estado":"MG",
+    "CEP":"39900-000"
+  },
+  {
+    "Unidade":"ARF Alta Floresta",
+    "Logradouro":"Rua Empresário Nasser Auada, nº 56",
+    "Bairro":"Centro",
+    "Cidade":"Alta Floresta",
+    "Estado":"MT",
+    "CEP":"78580-000"
+  },
+  {
+    "Unidade":"ARF Altamira",
+    "Logradouro":"Rua Otaviano Santos, nº 2278",
+    "Bairro":"Sudam 1",
+    "Cidade":"Altamira",
+    "Estado":"PA",
+    "CEP":"68371-288"
+  },
+  {
+    "Unidade":"ARF Alto Araguaia",
+    "Logradouro":"Rua João Alves Ferreira, nº 849, \"João Segundo\"",
+    "Bairro":"Centro",
+    "Cidade":"Alto Araguaia",
+    "Estado":"MT",
+    "CEP":"78780-000"
+  },
+  {
+    "Unidade":"ARF Americana",
+    "Logradouro":"Rua Sete de Setembro, nº 633",
+    "Bairro":"Centro",
+    "Cidade":"Americana",
+    "Estado":"SP",
+    "CEP":"13465-320"
+  },
+  {
+    "Unidade":"ARF Amparo",
+    "Logradouro":"Avenida Fioravante Gerbi, nº 369",
+    "Bairro":"Ribeirão",
+    "Cidade":"Amparo",
+    "Estado":"SP",
+    "CEP":"13904-060"
+  },
+  {
+    "Unidade":"ARF Ananindeua",
+    "Logradouro":"Rodovia BR 316, Km 08, nº 5, Cj Jardim Ananindeua",
+    "Bairro":"Centro",
+    "Cidade":"Ananindeua",
+    "Estado":"PA",
+    "CEP":"67030-000"
+  },
+  {
+    "Unidade":"ARF Andradina",
+    "Logradouro":"Avenida Guanabara, nº 1661",
+    "Bairro":"Centro",
+    "Cidade":"Andradina",
+    "Estado":"SP",
+    "CEP":"16901-000"
+  },
+  {
+    "Unidade":"ARF Apucarana",
+    "Logradouro":"Rua Ponta Grossa, nº 1274",
+    "Bairro":"Centro",
+    "Cidade":"Apucarana",
+    "Estado":"PR",
+    "CEP":"86800-030"
+  },
+  {
+    "Unidade":"ARF Aquidauana",
+    "Logradouro":"Rua Rua Luiz Costa Gomes, nº 593, Quadra 362, Lote D",
+    "Bairro":"Alto",
+    "Cidade":"Aquidauana",
+    "Estado":"MS",
+    "CEP":"79200-000"
+  },
+  {
+    "Unidade":"ARF Aracati",
+    "Logradouro":"Rua Coronel Raimundo Porto, nº 171",
+    "Bairro":"Centro",
+    "Cidade":"Aracati",
+    "Estado":"CE",
+    "CEP":"62800-000"
+  },
+  {
+    "Unidade":"ARF Araguaína",
+    "Logradouro":"Avenida Paranaíba, nº 1621, esq.c/a Rua Ademar V",
+    "Bairro":"Centro",
+    "Cidade":"Araguaína",
+    "Estado":"TO",
+    "CEP":"77803-100"
+  },
+  {
+    "Unidade":"ARF Araguari",
+    "Logradouro":"Rua Dr. Afrânio, nº 163, sala 1",
+    "Bairro":"Centro",
+    "Cidade":"Araguari",
+    "Estado":"MG",
+    "CEP":"38440-072"
+  },
+  {
+    "Unidade":"ARF Arapiraca",
+    "Logradouro":"Rua Engenheiro Gordilho de Castro, s/n",
+    "Bairro":"Centro",
+    "Cidade":"Arapiraca",
+    "Estado":"AL",
+    "CEP":"57300-100"
+  },
+  {
+    "Unidade":"ARF Arapongas",
+    "Logradouro":"Avenida Arapongas, nº 1584",
+    "Bairro":"Centro",
+    "Cidade":"Arapongas",
+    "Estado":"PR",
+    "CEP":"86701-000"
+  },
+  {
+    "Unidade":"ARF Araranguá",
+    "Logradouro":"Avenida Coronel João Fernandes n. 26 (Atendimento mediante agendamento prévio), nº 26",
+    "Bairro":"Centro",
+    "Cidade":"Araranguá",
+    "Estado":"SC",
+    "CEP":"88900-000"
+  },
+  {
+    "Unidade":"ARF Araras",
+    "Logradouro":"Rua Sete de Setembro, nº 535",
+    "Bairro":"Centro",
+    "Cidade":"Araras",
+    "Estado":"SP",
+    "CEP":"13600-130"
+  },
+  {
+    "Unidade":"ARF Araucária",
+    "Logradouro":"Rua Pedro Druszcz, nº 148",
+    "Bairro":"Centro",
+    "Cidade":"Araucária",
+    "Estado":"PR",
+    "CEP":"83702-080"
+  },
+  {
+    "Unidade":"ARF Araxá",
+    "Logradouro":"Av Imbiara, nº 367",
+    "Bairro":"Centro",
+    "Cidade":"Araxa",
+    "Estado":"MG",
+    "CEP":"38183-244"
+  },
+  {
+    "Unidade":"ARF Arcoverde",
+    "Logradouro":"Largo Antônio Franklin Cordeiro, s/n",
+    "Bairro":"Centro",
+    "Cidade":"Arcoverde",
+    "Estado":"PE",
+    "CEP":"56506-913"
+  },
+  {
+    "Unidade":"ARF Assis",
+    "Logradouro":"Rua Angelo Bertoncini, nº 270",
+    "Bairro":"Centro",
+    "Cidade":"Assis",
+    "Estado":"SP",
+    "CEP":"19814-330"
+  },
+  {
+    "Unidade":"ARF Avaré",
+    "Logradouro":"Rua Pernambuco, nº 1817",
+    "Bairro":"Braz I",
+    "Cidade":"Avaré",
+    "Estado":"SP",
+    "CEP":"18701-180"
+  },
+  {
+    "Unidade":"ARF Bacabal",
+    "Logradouro":"Avenida Carlos Sardinha, nº 190",
+    "Bairro":"Centro",
+    "Cidade":"Bacabal",
+    "Estado":"MA",
+    "CEP":"65700-000"
+  },
+  {
+    "Unidade":"ARF Balsas",
+    "Logradouro":"Travessa Luiz Silva, nº 300",
+    "Bairro":"Centro",
+    "Cidade":"Balsas",
+    "Estado":"MA",
+    "CEP":"65800-000"
+  },
+  {
+    "Unidade":"ARF Barbacena",
+    "Logradouro":"Rua Getúlio Vargas, nº 80",
+    "Bairro":"Centro",
+    "Cidade":"Barbacena",
+    "Estado":"MG",
+    "CEP":"36200-076"
+  },
+  {
+    "Unidade":"ARF Barra do Garças",
+    "Logradouro":"Avenida Ministro João Alberto, nº 828",
+    "Bairro":"Centro",
+    "Cidade":"Barra do Garças",
+    "Estado":"MT",
+    "CEP":"78600-000"
+  },
+  {
+    "Unidade":"ARF Barreiras",
+    "Logradouro":"RUA ALBERTO COIMBRA, nº 475",
+    "Bairro":"SANDRA REGINA",
+    "Cidade":"BARREIRAS",
+    "Estado":"BA",
+    "CEP":"47803-240"
+  },
+  {
+    "Unidade":"ARF Barretos",
+    "Logradouro":"Rua 12, nº 0991",
+    "Bairro":"Centenário",
+    "Cidade":"Barretos",
+    "Estado":"SP",
+    "CEP":"14780-700"
+  },
+  {
+    "Unidade":"ARF Batatais",
+    "Logradouro":"Praça Dr. Fernando Costa, nº 53",
+    "Bairro":"Castelo",
+    "Cidade":"Batatais",
+    "Estado":"SP",
+    "CEP":"14300-000"
+  },
+  {
+    "Unidade":"ARF Baturité",
+    "Logradouro":"Rua 15 de Novembro, nº 918",
+    "Bairro":"Centro",
+    "Cidade":"Baturité",
+    "Estado":"CE",
+    "CEP":"62760-000"
+  },
+  {
+    "Unidade":"ARF Bebedouro",
+    "Logradouro":"Avenida Allan Kardec, Bebedouro Shopping, nº 1451, Loja A1",
+    "Bairro":"Centro",
+    "Cidade":"Bebedouro",
+    "Estado":"SP",
+    "CEP":"14701-904"
+  },
+  {
+    "Unidade":"ARF Betim",
+    "Logradouro":"Rua Inconfidência, nº 360",
+    "Bairro":"Centro",
+    "Cidade":"Betim",
+    "Estado":"MG",
+    "CEP":"32600-100"
+  },
+  {
+    "Unidade":"ARF Bom Despacho",
+    "Logradouro":"Praça da Matriz, nº 180, Loja 4",
+    "Bairro":"Centro",
+    "Cidade":"Bom Despacho",
+    "Estado":"MG",
+    "CEP":"35600-000"
+  },
+  {
+    "Unidade":"ARF Bom Jesus da Lapa",
+    "Logradouro":"Rua Castro Alves, nº 197",
+    "Bairro":"Centro",
+    "Cidade":"Bom Jesus da Lapa",
+    "Estado":"BA",
+    "CEP":"47600-000"
+  },
+  {
+    "Unidade":"ARF Botucatu",
+    "Logradouro":"Rua Amando Barros, nº 1390",
+    "Bairro":"Vila Silvinha",
+    "Cidade":"Botucatu",
+    "Estado":"SP",
+    "CEP":"18602-150"
+  },
+  {
+    "Unidade":"ARF Bragança Paulista",
+    "Logradouro":"Rua Viscondessa da Cunha Bueno, nº 229",
+    "Bairro":"Centro",
+    "Cidade":"Bragança Paulista",
+    "Estado":"SP",
+    "CEP":"12914-360"
+  },
+  {
+    "Unidade":"ARF Brumado",
+    "Logradouro":"Rua Joana Angélica, nº 276",
+    "Bairro":"Centro",
+    "Cidade":"Brumado",
+    "Estado":"BA",
+    "CEP":"46100-000"
+  },
+  {
+    "Unidade":"ARF Brusque",
+    "Logradouro":"Rua Rodrigues Alves, nº 130",
+    "Bairro":"Centro",
+    "Cidade":"Brusque",
+    "Estado":"SC",
+    "CEP":"88350-160"
+  },
+  {
+    "Unidade":"ARF Cabo de Santo Agostinho",
+    "Logradouro":"Rua Manoel Queiróz da Silva, nº 223",
+    "Bairro":"Centro",
+    "Cidade":"Cabo de S. Agostinho",
+    "Estado":"PE",
+    "CEP":"54525-180"
+  },
+  {
+    "Unidade":"ARF Caçador",
+    "Logradouro":"Avenida Santa Catarina, nº 248",
+    "Bairro":"Centro",
+    "Cidade":"Caçador",
+    "Estado":"SC",
+    "CEP":"89500-000"
+  },
+  {
+    "Unidade":"ARF Cachoeiro do Itapemirim",
+    "Logradouro":"Rua João Mota, nº 18",
+    "Bairro":"Ferroviário",
+    "Cidade":"Cach. do Itapemirim",
+    "Estado":"ES",
+    "CEP":"29230-810"
+  },
+  {
+    "Unidade":"ARF Cajazeiras",
+    "Logradouro":"Rua Bonifácio Moura, nº 85",
+    "Bairro":"Centro",
+    "Cidade":"Cajazeiras",
+    "Estado":"PB",
+    "CEP":"58.900-00"
+  },
+  {
+    "Unidade":"ARF Caldas Novas",
+    "Logradouro":"Rua Pedro Branco de Souza, nº 203",
+    "Bairro":"Centro",
+    "Cidade":"Caldas Novas",
+    "Estado":"GO",
+    "CEP":"75690-000"
+  },
+  {
+    "Unidade":"ARF Camocim",
+    "Logradouro":"Rua Santos Dumont, nº 1588",
+    "Bairro":"Centro",
+    "Cidade":"Camocim",
+    "Estado":"CE",
+    "CEP":"62400-000"
+  },
+  {
+    "Unidade":"ARF Campo Belo",
+    "Logradouro":"Avenida Afonso Pena, nº 1041",
+    "Bairro":"Centro",
+    "Cidade":"Campo Belo",
+    "Estado":"MG",
+    "CEP":"37270-000"
+  },
+  {
+    "Unidade":"ARF Campo Mourão",
+    "Logradouro":"Rua Santa Catarina, nº 1682, Esq. Av. José C Oliv",
+    "Bairro":"Centro",
+    "Cidade":"Campo Mourão",
+    "Estado":"PR",
+    "CEP":"87300-410"
+  },
+  {
+    "Unidade":"ARF Campos do Jordão",
+    "Logradouro":"Rua Brigadeiro Jordão, nº 622",
+    "Bairro":"Abernéssia",
+    "Cidade":"Campos do Jordão",
+    "Estado":"SP",
+    "CEP":"12460-000"
+  },
+  {
+    "Unidade":"ARF Campos do Jordão",
+    "Logradouro":"Rua Brigadeiro Jordão, nº 622",
+    "Bairro":"Abernéssia",
+    "Cidade":"Campos do Jordão",
+    "Estado":"SP",
+    "CEP":"12460-000"
+  },
+  {
+    "Unidade":"ARF Canoinhas",
+    "Logradouro":"Rua Frei Menandro Kamps, nº 405",
+    "Bairro":"Centro",
+    "Cidade":"Canoinhas",
+    "Estado":"SC",
+    "CEP":"89460-000"
+  },
+  {
+    "Unidade":"ARF Capanema",
+    "Logradouro":"AVENIDA BARÃO DE CAPANEMA, nº 979",
+    "Bairro":"CENTRO",
+    "Cidade":"CAPANEMA",
+    "Estado":"PA",
+    "CEP":"68703-000"
+  },
+  {
+    "Unidade":"ARF Caracaraí",
+    "Logradouro":"Av. Av Dr. Zany, nº 1213",
+    "Bairro":"Centro",
+    "Cidade":"Caracaraí",
+    "Estado":"RR",
+    "CEP":"69360-000"
+  },
+  {
+    "Unidade":"ARF Caratinga",
+    "Logradouro":"Rua João Pinheiro, nº 46",
+    "Bairro":"Centro",
+    "Cidade":"Caratinga",
+    "Estado":"MG",
+    "CEP":"35300-037"
+  },
+  {
+    "Unidade":"ARF Carolina",
+    "Logradouro":"Rua Aníbal Mascarenhas, nº 67",
+    "Bairro":"Centro",
+    "Cidade":"Carolina",
+    "Estado":"MA",
+    "CEP":"65980-000"
+  },
+  {
+    "Unidade":"ARF Castanhal",
+    "Logradouro":"Avenida Presidente Getúlio Vargas, nº 2443",
+    "Bairro":"Centro",
+    "Cidade":"Castanhal",
+    "Estado":"PA",
+    "CEP":"68740-005"
+  },
+  {
+    "Unidade":"ARF Cataguases",
+    "Logradouro":"Rua Major Vieira, nº 300, Loja 18 a 21",
+    "Bairro":"Centro",
+    "Cidade":"Cataguases",
+    "Estado":"MG",
+    "CEP":"36770-060"
+  },
+  {
+    "Unidade":"ARF Catalão",
+    "Logradouro":"Avenida João XXIII, nº 12",
+    "Bairro":"Centro",
+    "Cidade":"Catalão",
+    "Estado":"GO",
+    "CEP":"75701-485"
+  },
+  {
+    "Unidade":"ARF Catanduva",
+    "Logradouro":"Rua Brasil, nº 1816",
+    "Bairro":"Centro",
+    "Cidade":"Catanduva",
+    "Estado":"SP",
+    "CEP":"15800-030"
+  },
+  {
+    "Unidade":"ARF Caucaia",
+    "Logradouro":"Rua Pedro Gomes da Rocha, nº 261",
+    "Bairro":"Centro",
+    "Cidade":"Caucaia",
+    "Estado":"CE",
+    "CEP":"61600-120"
+  },
+  {
+    "Unidade":"ARF Caxias",
+    "Logradouro":"Rua Aarão Reis, nº 809",
+    "Bairro":"Centro",
+    "Cidade":"Caxias",
+    "Estado":"MA",
+    "CEP":"65606-020"
+  },
+  {
+    "Unidade":"ARF Ceres",
+    "Logradouro":"Rua Alfredo de Pádua, nº 29",
+    "Bairro":"Centro",
+    "Cidade":"Ceres",
+    "Estado":"GO",
+    "CEP":"76300-000"
+  },
+  {
+    "Unidade":"ARF Chapadinha",
+    "Logradouro":"RUA Rua Cunha Machado, nº 1095, .",
+    "Bairro":"Centro",
+    "Cidade":"Chapadinha",
+    "Estado":"MA",
+    "CEP":"65500-000"
+  },
+  {
+    "Unidade":"ARF Chapecó",
+    "Logradouro":"Rua Uruguai, nº 373, E",
+    "Bairro":"Centro",
+    "Cidade":"Chapecó",
+    "Estado":"SC",
+    "CEP":"89801-571"
+  },
+  {
+    "Unidade":"ARF Cianorte",
+    "Logradouro":"Avenida Santa Catarina, nº 383",
+    "Bairro":"Centro",
+    "Cidade":"Cianorte",
+    "Estado":"PR",
+    "CEP":"87200-000"
+  },
+  {
+    "Unidade":"ARF Codó",
+    "Logradouro":"Avenida Augusto Teixeira, nº 2148",
+    "Bairro":"Centro",
+    "Cidade":"Codó",
+    "Estado":"MA",
+    "CEP":"65400-000"
+  },
+  {
+    "Unidade":"ARF Colatina",
+    "Logradouro":"Av Angelo Giubert, nº 273",
+    "Bairro":"Vila Nova",
+    "Cidade":"Colatina",
+    "Estado":"ES",
+    "CEP":"29702-060"
+  },
+  {
+    "Unidade":"ARF Colombo",
+    "Logradouro":"Rua dos Eucalíptos, nº 140",
+    "Bairro":"Maracanã",
+    "Cidade":"Colombo",
+    "Estado":"PR",
+    "CEP":"83408-485"
+  },
+  {
+    "Unidade":"ARF Concórdia",
+    "Logradouro":"Rua Santa Catarina, nº 83",
+    "Bairro":"Centro",
+    "Cidade":"Concórdia",
+    "Estado":"SC",
+    "CEP":"89700-000"
+  },
+  {
+    "Unidade":"ARF Conselheiro Lafaiete",
+    "Logradouro":"Rua José Nicolau de Queiroz, nº 189",
+    "Bairro":"Centro",
+    "Cidade":"Conselheiro Lafaiete",
+    "Estado":"MG",
+    "CEP":"36400-000"
+  },
+  {
+    "Unidade":"ARF Cornélio Procópio",
+    "Logradouro":"Avenida 15 de Novembro, nº 313",
+    "Bairro":"Centro",
+    "Cidade":"Cornélio Procópio",
+    "Estado":"PR",
+    "CEP":"86300-000"
+  },
+  {
+    "Unidade":"ARF Corumbá",
+    "Logradouro":"RUA CUIABA, nº 581",
+    "Bairro":"CENTRO",
+    "Cidade":"CORUMBA",
+    "Estado":"MS",
+    "CEP":"79302-907"
+  },
+  {
+    "Unidade":"ARF Cotia",
+    "Logradouro":"Avenida Professor Manoel José Pedroso, nº 1326",
+    "Bairro":"Parque Bahia",
+    "Cidade":"Cotia",
+    "Estado":"SP",
+    "CEP":"06717-100"
+  },
+  {
+    "Unidade":"ARF Crateús",
+    "Logradouro":"Rua Santos Dumont, nº 235",
+    "Bairro":"Centro",
+    "Cidade":"Crateús",
+    "Estado":"CE",
+    "CEP":"63700-000"
+  },
+  {
+    "Unidade":"ARF Crato",
+    "Logradouro":"Avenida Perimetral D. Francisco, nº 79",
+    "Bairro":"Sâo Miguel",
+    "Cidade":"Crato",
+    "Estado":"CE",
+    "CEP":"63101-095"
+  },
+  {
+    "Unidade":"ARF Criciúma",
+    "Logradouro":"Rua Desembargador Pedro Silva, nº 180",
+    "Bairro":"Centro",
+    "Cidade":"Criciúma",
+    "Estado":"SC",
+    "CEP":"88802-186"
+  },
+  {
+    "Unidade":"ARF Cruz das Almas",
+    "Logradouro":"Rua J.B. da Fonseca, nº 63",
+    "Bairro":"Centro",
+    "Cidade":"Cruz das Almas",
+    "Estado":"BA",
+    "CEP":"44380-000"
+  },
+  {
+    "Unidade":"ARF Cruzeiro",
+    "Logradouro":"Rua Dr. Celestino, nº 1269",
+    "Bairro":"Vila Canevari",
+    "Cidade":"Cruzeiro",
+    "Estado":"SP",
+    "CEP":"12710-260"
+  },
+  {
+    "Unidade":"ARF Curvelo",
+    "Logradouro":"Rua Pacífico Mascarenhas, nº 365",
+    "Bairro":"Centro",
+    "Cidade":"Curvelo",
+    "Estado":"MG",
+    "CEP":"35790-000"
+  },
+  {
+    "Unidade":"ARF Diadema",
+    "Logradouro":"Rua das Pérolas, nº 31",
+    "Bairro":"Jardim Donini",
+    "Cidade":"Diadema",
+    "Estado":"SP",
+    "CEP":"09920-490"
+  },
+  {
+    "Unidade":"ARF Diamantina",
+    "Logradouro":"Rua do Carmo, nº 99",
+    "Bairro":"Centro",
+    "Cidade":"Diamantina",
+    "Estado":"MG",
+    "CEP":"39100-000"
+  },
+  {
+    "Unidade":"ARF Diamantino",
+    "Logradouro":"Rua Marechal Rondon, nº 59",
+    "Bairro":"Centro",
+    "Cidade":"Diamantino",
+    "Estado":"MT",
+    "CEP":"78400-000"
+  },
+  {
+    "Unidade":"ARF Dianópolis",
+    "Logradouro":"Praça da Capelinha, nº 601, terreo",
+    "Bairro":"Centro",
+    "Cidade":"Dianópolis",
+    "Estado":"TO",
+    "CEP":"77300-000"
+  },
+  {
+    "Unidade":"ARF Dracena",
+    "Logradouro":"Avenida Washington Luiz, nº 653",
+    "Bairro":"Jardim Metrópole",
+    "Cidade":"Dracena",
+    "Estado":"SP",
+    "CEP":"17900-000"
+  },
+  {
+    "Unidade":"ARF Estância",
+    "Logradouro":"Avenida Lourival Batista, nº 175, Casa",
+    "Bairro":"Centro",
+    "Cidade":"Estância",
+    "Estado":"SE",
+    "CEP":"49200-000"
+  },
+  {
+    "Unidade":"ARF Euclides da Cunha",
+    "Logradouro":"Rua Castro Alves, nº 59, 1º andar",
+    "Bairro":"Centro",
+    "Cidade":"Euclides da Cunha",
+    "Estado":"BA",
+    "CEP":"48500-000"
+  },
+  {
+    "Unidade":"ARF Eunápolis",
+    "Logradouro":"Avenida Conselheiro Luis Viana,, nº 207",
+    "Bairro":"Centro",
+    "Cidade":"Eunápolis",
+    "Estado":"BA",
+    "CEP":"45820-131"
+  },
+  {
+    "Unidade":"ARF Fernandópolis",
+    "Logradouro":"Av. Eurípedes José Ferreira, nº 910",
+    "Bairro":"Aparecida",
+    "Cidade":"Fernandópolis",
+    "Estado":"SP",
+    "CEP":"15600-000"
+  },
+  {
+    "Unidade":"ARF Formiga",
+    "Logradouro":"Av Dr. Henrique Braga, nº 90",
+    "Bairro":"Centro",
+    "Cidade":"Formiga",
+    "Estado":"MG",
+    "CEP":"35570-000"
+  },
+  {
+    "Unidade":"ARF Formosa",
+    "Logradouro":"Rua Olimpio Jacinto, nº 615",
+    "Bairro":"Centro",
+    "Cidade":"Formosa",
+    "Estado":"GO",
+    "CEP":"73801-400"
+  },
+  {
+    "Unidade":"ARF Francisco Beltrão",
+    "Logradouro":"Rua Octaviano Teixeira dos Santos, nº 1111",
+    "Bairro":"Centro",
+    "Cidade":"Francisco Beltrão",
+    "Estado":"PR",
+    "CEP":"85601-030"
+  },
+  {
+    "Unidade":"ARF Franco da Rocha",
+    "Logradouro":"Avenida Liberdade, nº 377",
+    "Bairro":"Centro",
+    "Cidade":"Franco da Rocha",
+    "Estado":"SP",
+    "CEP":"07850-325"
+  },
+  {
+    "Unidade":"ARF Frutal",
+    "Logradouro":"Rua São Sebastião, nº 826",
+    "Bairro":"Centro",
+    "Cidade":"Frutal",
+    "Estado":"MG",
+    "CEP":"38200-000"
+  },
+  {
+    "Unidade":"ARF Garanhuns",
+    "Logradouro":"Rua Melo Peixoto, nº 154",
+    "Bairro":"Santo Antônio",
+    "Cidade":"Garanhuns",
+    "Estado":"PE",
+    "CEP":"55293-190"
+  },
+  {
+    "Unidade":"ARF Goiana",
+    "Logradouro":"Rua do Rosário, s/n-Oitão da Matriz",
+    "Bairro":"Centro",
+    "Cidade":"Goiana",
+    "Estado":"PE",
+    "CEP":"55900-000"
+  },
+  {
+    "Unidade":"ARF Goiás",
+    "Logradouro":"Praça Tiradentes, nº 5",
+    "Bairro":"Centro",
+    "Cidade":"Goiás",
+    "Estado":"GO",
+    "CEP":"76600-000"
+  },
+  {
+    "Unidade":"ARF Guanambi",
+    "Logradouro":"Praça Gercino Coelho, nº 6",
+    "Bairro":"Centro",
+    "Cidade":"Guanambi",
+    "Estado":"BA",
+    "CEP":"46430-000"
+  },
+  {
+    "Unidade":"ARF Guarabira",
+    "Logradouro":"RUA PADRE INÁCIO DE ALMEIDA, nº 618",
+    "Bairro":"CENTRO",
+    "Cidade":"GUARABIRA",
+    "Estado":"PB",
+    "CEP":"58200-000"
+  },
+  {
+    "Unidade":"ARF Guarapuava",
+    "Logradouro":"Rua Vicente Machado, nº 1272",
+    "Bairro":"Centro",
+    "Cidade":"Guarapuava",
+    "Estado":"PR",
+    "CEP":"85010-26"
+  },
+  {
+    "Unidade":"ARF Guaratinguetá",
+    "Logradouro":"AVENIDA JOÃO PESSOA, nº 546",
+    "Bairro":"PEDREGULHO",
+    "Cidade":"GUARATINGUETA",
+    "Estado":"SP",
+    "CEP":"12515-010"
+  },
+  {
+    "Unidade":"ARF Guarujá",
+    "Logradouro":"Avenida Adhemar de Barros, nº 230, Térreo",
+    "Bairro":"Santo Antônio",
+    "Cidade":"Guarujá",
+    "Estado":"SP",
+    "CEP":"11430-000"
+  },
+  {
+    "Unidade":"ARF Guaxupé",
+    "Logradouro":"Avenida Dona Floriana, nº 1522",
+    "Bairro":"Centro",
+    "Cidade":"Guaxupé",
+    "Estado":"MG",
+    "CEP":"37800-000"
+  },
+  {
+    "Unidade":"ARF Gurupi",
+    "Logradouro":"Avenida Maranhão, nº 1430",
+    "Bairro":"Centro",
+    "Cidade":"Gurupi",
+    "Estado":"TO",
+    "CEP":"77410-020"
+  },
+  {
+    "Unidade":"ARF Humaitá",
+    "Logradouro":"Rua 5 de Setembro, nº 997",
+    "Bairro":"Centro",
+    "Cidade":"Humaitá",
+    "Estado":"AM",
+    "CEP":"69800-000"
+  },
+  {
+    "Unidade":"ARF Ibaiti",
+    "Logradouro":"Rua Paraná, nº 10",
+    "Bairro":"Centro",
+    "Cidade":"Ibaiti",
+    "Estado":"PR",
+    "CEP":"84900-000"
+  },
+  {
+    "Unidade":"ARF Ibitinga",
+    "Logradouro":"Rua Dr. Teixeira, nº 371",
+    "Bairro":"Centro",
+    "Cidade":"Ibitinga",
+    "Estado":"SP",
+    "CEP":"14940-000"
+  },
+  {
+    "Unidade":"ARF Ibotirama",
+    "Logradouro":"Rua Otávio Mangabeira, nº 250",
+    "Bairro":"Centro",
+    "Cidade":"Ibotirama",
+    "Estado":"BA",
+    "CEP":"47520-000"
+  },
+  {
+    "Unidade":"ARF Icó",
+    "Logradouro":"Avenida Josefa Nogueira Monteiro, nº 1668",
+    "Bairro":"Centro",
+    "Cidade":"Icó",
+    "Estado":"CE",
+    "CEP":"63430-000"
+  },
+  {
+    "Unidade":"ARF Iguatu",
+    "Logradouro":"Rua 13 de Maio, nº 687",
+    "Bairro":"Centro",
+    "Cidade":"Iguatu",
+    "Estado":"CE",
+    "CEP":"63500-000"
+  },
+  {
+    "Unidade":"ARF Indaiatuba",
+    "Logradouro":"Rua Padre Bento Pacheco, nº 1323",
+    "Bairro":"Centro",
+    "Cidade":"Indaiatuba",
+    "Estado":"SP",
+    "CEP":"13330-020"
+  },
+  {
+    "Unidade":"ARF Ipiaú",
+    "Logradouro":"Rua Sete de Setembro, nº 61",
+    "Bairro":"Centro",
+    "Cidade":"Ipiaú",
+    "Estado":"BA",
+    "CEP":"45570-000"
+  },
+  {
+    "Unidade":"ARF Iporã",
+    "Logradouro":"Avenida 31 de Março, nº 822",
+    "Bairro":"Centro",
+    "Cidade":"Iporã",
+    "Estado":"PR",
+    "CEP":"87560-000"
+  },
+  {
+    "Unidade":"ARF Ipu",
+    "Logradouro":"Avenida Auton Aragão, nº 1678",
+    "Bairro":"Canudos",
+    "Cidade":"Ipu",
+    "Estado":"CE",
+    "CEP":"62250-000"
+  },
+  {
+    "Unidade":"ARF Irati",
+    "Logradouro":"Rua Alfredo Bufren, nº 582",
+    "Bairro":"Centro",
+    "Cidade":"Irati",
+    "Estado":"PR",
+    "CEP":"84500-000"
+  },
+  {
+    "Unidade":"ARF Irecê",
+    "Logradouro":"Avenida Caraíbas, nº 195, terreo",
+    "Bairro":"Centro",
+    "Cidade":"IRECÊ",
+    "Estado":"BA",
+    "CEP":"44900-000"
+  },
+  {
+    "Unidade":"ARF Itabaiana",
+    "Logradouro":"Praça Epitácio Pessoa, nº 28",
+    "Bairro":"Centro",
+    "Cidade":"Itabaiana",
+    "Estado":"PB",
+    "CEP":"58360-000"
+  },
+  {
+    "Unidade":"ARF Itabaiana",
+    "Logradouro":"Avenida Luiz Magalhães, nº 1255",
+    "Bairro":"Centro",
+    "Cidade":"Itabaiana",
+    "Estado":"SE",
+    "CEP":"49500-000"
+  },
+  {
+    "Unidade":"ARF Itaberaba",
+    "Logradouro":"Praça Rua Flávio Silvany nº 68, nº 68, Prédio",
+    "Bairro":"Centro",
+    "Cidade":"Itaberaba",
+    "Estado":"BA",
+    "CEP":"46880-000"
+  },
+  {
+    "Unidade":"ARF Itabira",
+    "Logradouro":"Avenida MAURO RIBEIRO LAGE, nº 190, LJ 04",
+    "Bairro":"ESPLANADA DA ESTAÇÃO",
+    "Cidade":"ITABIRA",
+    "Estado":"MG",
+    "CEP":"35900-560"
+  },
+  {
+    "Unidade":"ARF Itaituba",
+    "Logradouro":"Avenida Marechal Rondom, s/n",
+    "Bairro":"Centro",
+    "Cidade":"Itaituba",
+    "Estado":"PA",
+    "CEP":"68181-000"
+  },
+  {
+    "Unidade":"ARF Itajubá",
+    "Logradouro":"Rua Francisco Masseli, nº 370",
+    "Bairro":"Centro",
+    "Cidade":"Itajubá",
+    "Estado":"MG",
+    "CEP":"37500-011"
+  },
+  {
+    "Unidade":"ARF Itamaraju",
+    "Logradouro":"Praça Nações Unidas, nº 27",
+    "Bairro":"Centro",
+    "Cidade":"Itamaraju",
+    "Estado":"BA",
+    "CEP":"45836-000"
+  },
+  {
+    "Unidade":"ARF Itanhaém",
+    "Logradouro":"Praça Dr. Carlos Botelho, nº 221",
+    "Bairro":"Centro",
+    "Cidade":"Itanhaém",
+    "Estado":"SP",
+    "CEP":"11740-000"
+  },
+  {
+    "Unidade":"ARF Itapetinga",
+    "Logradouro":"Rua José Bonifácio, nº 77, terreo",
+    "Bairro":"Centro",
+    "Cidade":"Itapetinga",
+    "Estado":"BA",
+    "CEP":"45700-000"
+  },
+  {
+    "Unidade":"ARF Itapetininga",
+    "Logradouro":"Rua Dom Joaquim, nº 515",
+    "Bairro":"Centro",
+    "Cidade":"Itapetininga",
+    "Estado":"SP",
+    "CEP":"18200-090"
+  },
+  {
+    "Unidade":"ARF Itapeva",
+    "Logradouro":"Rua Martinho Carneiro, nº 64",
+    "Bairro":"Centro",
+    "Cidade":"Itapeva",
+    "Estado":"SP",
+    "CEP":"18400-460"
+  },
+  {
+    "Unidade":"ARF Itapipoca",
+    "Logradouro":"Rua Eubia Barroso, nº 2800",
+    "Bairro":"Centro",
+    "Cidade":"Itapipoca",
+    "Estado":"CE",
+    "CEP":"62500-000"
+  },
+  {
+    "Unidade":"ARF Itaúna",
+    "Logradouro":"Avenida Getulio Vargas, nº 570",
+    "Bairro":"Centro",
+    "Cidade":"Itaúna",
+    "Estado":"MG",
+    "CEP":"35680-037"
+  },
+  {
+    "Unidade":"ARF Itu",
+    "Logradouro":"Praça Guanabara, nº 156",
+    "Bairro":"Brasil",
+    "Cidade":"Itu",
+    "Estado":"SP",
+    "CEP":"13301-910"
+  },
+  {
+    "Unidade":"ARF Ituiutaba",
+    "Logradouro":"Rua 22, nº 1050",
+    "Bairro":"Centro",
+    "Cidade":"Ituiutaba",
+    "Estado":"MG",
+    "CEP":"38300-076"
+  },
+  {
+    "Unidade":"ARF Itumbiara",
+    "Logradouro":"Avenida Trindade, nº 898, esq com Rua Uberaba",
+    "Bairro":"Social",
+    "Cidade":"Itumbiara",
+    "Estado":"GO",
+    "CEP":"75503-530"
+  },
+  {
+    "Unidade":"ARF Ivaiporã",
+    "Logradouro":"Avenida Paraná, nº 1425",
+    "Bairro":"Centro",
+    "Cidade":"Ivaiporã",
+    "Estado":"PR",
+    "CEP":"86870-000"
+  },
+  {
+    "Unidade":"ARF Jaboatão dos Guararapes",
+    "Logradouro":"Avenida Ulisses Montarroyos, nº 2880",
+    "Bairro":"Piedade",
+    "Cidade":"J. dos Guararapes",
+    "Estado":"PE",
+    "CEP":"54400-620"
+  },
+  {
+    "Unidade":"ARF Jaboticabal",
+    "Logradouro":"Rua Barão do Rio Branco, nº 823",
+    "Bairro":"Centro",
+    "Cidade":"Jaboticabal",
+    "Estado":"SP",
+    "CEP":"14870-330"
+  },
+  {
+    "Unidade":"ARF Jacareí",
+    "Logradouro":"Rua General Carneiro, nº 218",
+    "Bairro":"Centro",
+    "Cidade":"Jacareí",
+    "Estado":"SP",
+    "CEP":"12308-061"
+  },
+  {
+    "Unidade":"ARF Jacarezinho",
+    "Logradouro":"Avenida Manoel Ribas, nº 215",
+    "Bairro":"Centro",
+    "Cidade":"Jacarezinho",
+    "Estado":"PR",
+    "CEP":"86400-000"
+  },
+  {
+    "Unidade":"ARF Jacobina",
+    "Logradouro":"Rua Dr. José J. Almeida Gouveia, nº 45",
+    "Bairro":"Missão",
+    "Cidade":"Jacobina",
+    "Estado":"BA",
+    "CEP":"44700-000"
+  },
+  {
+    "Unidade":"ARF Jales",
+    "Logradouro":"Rua Seis, nº 2410",
+    "Bairro":"Centro",
+    "Cidade":"Jales",
+    "Estado":"SP",
+    "CEP":"15700-062"
+  },
+  {
+    "Unidade":"ARF Janaúba",
+    "Logradouro":"Avenida Maurício Augusto de Azevedo, nº 243",
+    "Bairro":"Centro",
+    "Cidade":"Janaúba",
+    "Estado":"MG",
+    "CEP":"39440-000"
+  },
+  {
+    "Unidade":"ARF Jandaia do Sul",
+    "Logradouro":"Rua José Maria de Paula Rodrigues, nº 300",
+    "Bairro":"Centro",
+    "Cidade":"Jandaia do Sul",
+    "Estado":"PR",
+    "CEP":"86900-000"
+  },
+  {
+    "Unidade":"ARF Jaraguá do Sul",
+    "Logradouro":"Rua Expedicionário Gumercindo da Silva, nº 90, térreo",
+    "Bairro":"Centro",
+    "Cidade":"Jaraguá do Sul",
+    "Estado":"SC",
+    "CEP":"89252-000"
+  },
+  {
+    "Unidade":"ARF Jardim",
+    "Logradouro":"Avenida Duque de Caxias, nº 467",
+    "Bairro":"Centro",
+    "Cidade":"Jardim",
+    "Estado":"MS",
+    "CEP":"79240-000"
+  },
+  {
+    "Unidade":"ARF Jataí",
+    "Logradouro":"Rua Dorival de Carvalho, nº 1120, Pça. Ten. Diomar Men",
+    "Bairro":"Centro",
+    "Cidade":"Jatai",
+    "Estado":"GO",
+    "CEP":"75800-013"
+  },
+  {
+    "Unidade":"ARF Jaú",
+    "Logradouro":"Rua Rui Barbosa, nº 157",
+    "Bairro":"Centro",
+    "Cidade":"Jaú",
+    "Estado":"SP",
+    "CEP":"17210-000"
+  },
+  {
+    "Unidade":"ARF Jequié",
+    "Logradouro":"Praça Rui Barbosa, nº 18",
+    "Bairro":"Centro",
+    "Cidade":"Jequié",
+    "Estado":"BA",
+    "CEP":"45200-250"
+  },
+  {
+    "Unidade":"ARF João Monlevade",
+    "Logradouro":"Rua Lucinda Soares da Fonseca, nº 36",
+    "Bairro":"JK",
+    "Cidade":"João Monlevade",
+    "Estado":"MG",
+    "CEP":"35930-692"
+  },
+  {
+    "Unidade":"ARF Juazeiro",
+    "Logradouro":"Praça da Bandeira, nº 48",
+    "Bairro":"Centro",
+    "Cidade":"Juazeiro",
+    "Estado":"BA",
+    "CEP":"48903-490"
+  },
+  {
+    "Unidade":"ARF Lagarto",
+    "Logradouro":"Praça José Rodrigues dos Santos, nº 97",
+    "Bairro":"Centro",
+    "Cidade":"Lagarto",
+    "Estado":"SE",
+    "CEP":"49400-000"
+  },
+  {
+    "Unidade":"ARF Laranjeiras do Sul",
+    "Logradouro":"Avenida Santos Dumont, nº 2341",
+    "Bairro":"Centro",
+    "Cidade":"Laranjeiras do Sul",
+    "Estado":"PR",
+    "CEP":"85301-040"
+  },
+  {
+    "Unidade":"ARF Lavras",
+    "Logradouro":"Rua Misseno de Pádua, nº 831",
+    "Bairro":"Centro",
+    "Cidade":"Lavras",
+    "Estado":"MG",
+    "CEP":"37200-000"
+  },
+  {
+    "Unidade":"ARF Lençóis Paulista",
+    "Logradouro":"Rua Anita Garibaldi, nº 821",
+    "Bairro":"Centro",
+    "Cidade":"Lençóis Paulista",
+    "Estado":"SP",
+    "CEP":"18682-043"
+  },
+  {
+    "Unidade":"ARF Limoeiro",
+    "Logradouro":"AV. VIGÁRIO JOAQUIM PINTO, nº 643",
+    "Bairro":"CENTRO",
+    "Cidade":"LIMOEIRO",
+    "Estado":"PE",
+    "CEP":"55700-000"
+  },
+  {
+    "Unidade":"ARF Linhares",
+    "Logradouro":"Avenida Gov. Jones dos Santos Neves, nº 625",
+    "Bairro":"Centro",
+    "Cidade":"Linhares",
+    "Estado":"ES",
+    "CEP":"29900-030"
+  },
+  {
+    "Unidade":"ARF Lins",
+    "Logradouro":"Avenida Nicolau Zarvos, nº 424",
+    "Bairro":"Vila Célia",
+    "Cidade":"Lins",
+    "Estado":"SP",
+    "CEP":"16401-300"
+  },
+  {
+    "Unidade":"ARF Loanda",
+    "Logradouro":"Rua Governador Munhoz da Rocha, nº 839",
+    "Bairro":"Centro",
+    "Cidade":"Loanda",
+    "Estado":"PR",
+    "CEP":"87900-000"
+  },
+  {
+    "Unidade":"ARF Luziania",
+    "Logradouro":"Rua Senador Herculano Área Especial, nº 6",
+    "Bairro":"Setor Aeroporto",
+    "Cidade":"Luziania",
+    "Estado":"GO",
+    "CEP":"72801-100"
+  },
+  {
+    "Unidade":"ARF Macaúbas",
+    "Logradouro":"Rua 15 de Novembro, nº 226",
+    "Bairro":"Centro",
+    "Cidade":"Macaúbas",
+    "Estado":"BA",
+    "CEP":"46500-000"
+  },
+  {
+    "Unidade":"ARF Mafra",
+    "Logradouro":"Avenida Prefeito Frederico Heyse, nº 74, Sala 1",
+    "Bairro":"Centro",
+    "Cidade":"Mafra",
+    "Estado":"SC",
+    "CEP":"89300-000"
+  },
+  {
+    "Unidade":"ARF Manacapuru",
+    "Logradouro":"Estrada Manoel Urbano, nº 1211",
+    "Bairro":"Terra Preta",
+    "Cidade":"Manacapuru",
+    "Estado":"AM",
+    "CEP":"69400-000"
+  },
+  {
+    "Unidade":"ARF Manhuaçu",
+    "Logradouro":"Rua Amaral Franco, nº 20, Sala 1 S",
+    "Bairro":"Centro",
+    "Cidade":"Manhuaçu",
+    "Estado":"MG",
+    "CEP":"36900-000"
+  },
+  {
+    "Unidade":"ARF Maranguape",
+    "Logradouro":"Rua Coronel Antônio Botelho de Sousa, nº 31",
+    "Bairro":"Centro",
+    "Cidade":"Maranguape",
+    "Estado":"CE",
+    "CEP":"61940-000"
+  },
+  {
+    "Unidade":"ARF Marechal Cândido Rondon",
+    "Logradouro":"Rua Pastor Meyer, nº 733",
+    "Bairro":"Centro",
+    "Cidade":"Mal. Cândido Rondon",
+    "Estado":"PR",
+    "CEP":"85960-000"
+  },
+  {
+    "Unidade":"ARF Mauá",
+    "Logradouro":"Rua Manoel Pedro Júnior, nº 62, Térreo",
+    "Bairro":"Vila Bocaina",
+    "Cidade":"Mauá",
+    "Estado":"SP",
+    "CEP":"09310-720"
+  },
+  {
+    "Unidade":"ARF Maués",
+    "Logradouro":"Avenida Eduardo Ribeiro, nº 223",
+    "Bairro":"Centro",
+    "Cidade":"Maués",
+    "Estado":"AM",
+    "CEP":"69190-00"
+  },
+  {
+    "Unidade":"ARF Medianeira",
+    "Logradouro":"Avenida Pedro Soccol, nº 581",
+    "Bairro":"Centro",
+    "Cidade":"Medianeira",
+    "Estado":"PR",
+    "CEP":"85884-000"
+  },
+  {
+    "Unidade":"ARF Miracema do Tocantins",
+    "Logradouro":"Avenida Dr. Francisco Aires, nº 498, com Rua Maranhão",
+    "Bairro":"Setor Santos Dumont",
+    "Cidade":"M. do Tocantins",
+    "Estado":"TO",
+    "CEP":"77650-000"
+  },
+  {
+    "Unidade":"ARF Mirassol DOeste",
+    "Logradouro":"Rua Antônio Tavares, nº 3276",
+    "Bairro":"Centro",
+    "Cidade":"Mirassol D'Oeste",
+    "Estado":"MT",
+    "CEP":"78280-000"
+  },
+  {
+    "Unidade":"ARF Mogi das Cruzes",
+    "Logradouro":"Rua Antonio Cândido Vieira,, nº 272",
+    "Bairro":"Centro",
+    "Cidade":"Mogi das Cruzes",
+    "Estado":"SP",
+    "CEP":"08710-200"
+  },
+  {
+    "Unidade":"ARF Mogi Guaçu",
+    "Logradouro":"Avenida Nove de Abril, nº 402",
+    "Bairro":"Centro",
+    "Cidade":"Mogi Guaçu",
+    "Estado":"SP",
+    "CEP":"13840-056"
+  },
+  {
+    "Unidade":"ARF Muriaé",
+    "Logradouro":"Avenida Juscelino Kubtschek, nº 631",
+    "Bairro":"Centro",
+    "Cidade":"Muriaé",
+    "Estado":"MG",
+    "CEP":"36880-000"
+  },
+  {
+    "Unidade":"ARF Naviraí",
+    "Logradouro":"Avenida Campo Grande, nº 328",
+    "Bairro":"Centro",
+    "Cidade":"Naviraí",
+    "Estado":"MS",
+    "CEP":"79950-000"
+  },
+  {
+    "Unidade":"ARF Nossa Senhora das Dores",
+    "Logradouro":"Praça Desembargador Aloísio de Abreu Lima, nº 196",
+    "Bairro":"Centro",
+    "Cidade":"Nossa Sra das Dores",
+    "Estado":"SE",
+    "CEP":"49600-000"
+  },
+  {
+    "Unidade":"ARF Nova Andradina",
+    "Logradouro":"Rua Walter Hubacher, nº 1459",
+    "Bairro":"Centro",
+    "Cidade":"Nova Andradina",
+    "Estado":"MS",
+    "CEP":"79750-000"
+  },
+  {
+    "Unidade":"ARF Olímpia",
+    "Logradouro":"Rua Marechal Deodoro, nº 1358",
+    "Bairro":"Centro",
+    "Cidade":"Olímpia",
+    "Estado":"SP",
+    "CEP":"15400-000"
+  },
+  {
+    "Unidade":"ARF Oliveira",
+    "Logradouro":"Praça Mãe dos Homens, nº 71",
+    "Bairro":"Centro",
+    "Cidade":"Oliveira",
+    "Estado":"MG",
+    "CEP":"35540-000"
+  },
+  {
+    "Unidade":"ARF Oriximiná",
+    "Logradouro":"Travessa Carlos Maria Teixeira, nº 225",
+    "Bairro":"Centro",
+    "Cidade":"Oriximiná",
+    "Estado":"PA",
+    "CEP":"68270-000"
+  },
+  {
+    "Unidade":"ARF Ouricuri",
+    "Logradouro":"Avenida Almir Mascarenhas, nº 125",
+    "Bairro":"Centro",
+    "Cidade":"Ouricuri",
+    "Estado":"PE",
+    "CEP":"56200-00"
+  },
+  {
+    "Unidade":"ARF Ourinhos",
+    "Logradouro":"Rua Arlindo Luz, nº 244, Térreo",
+    "Bairro":"Centro",
+    "Cidade":"Ourinhos",
+    "Estado":"SP",
+    "CEP":"19900-010"
+  },
+  {
+    "Unidade":"ARF Ouro Preto",
+    "Logradouro":"Largo do Rosário, nº 99",
+    "Bairro":"Rosário",
+    "Cidade":"Ouro Preto",
+    "Estado":"MG",
+    "CEP":"35400-000"
+  },
+  {
+    "Unidade":"ARF Palmares",
+    "Logradouro":"Rua da conceição, nº 1270, 1º Andar",
+    "Bairro":"Centro",
+    "Cidade":"Palmares",
+    "Estado":"PE",
+    "CEP":"55540-000"
+  },
+  {
+    "Unidade":"ARF Palmeira dos Índios",
+    "Logradouro":"Rua Conselheiro Sebastião Lima, nº 704",
+    "Bairro":"Paraíso",
+    "Cidade":"Palmeira dos Índios",
+    "Estado":"AL",
+    "CEP":"57602-080"
+  },
+  {
+    "Unidade":"ARF Pará de Minas",
+    "Logradouro":"Rua Benedito Valadares, nº 536, Sala 2",
+    "Bairro":"Centro",
+    "Cidade":"Pará de Minas",
+    "Estado":"MG",
+    "CEP":"35660-630"
+  },
+  {
+    "Unidade":"ARF Paracatu",
+    "Logradouro":"Rua José Pereira Guimarães, nº 43",
+    "Bairro":"Centro",
+    "Cidade":"Paracatu",
+    "Estado":"MG",
+    "CEP":"38600-000"
+  },
+  {
+    "Unidade":"ARF Paragominas",
+    "Logradouro":"Avenida Costa e Silva, nº 429",
+    "Bairro":"Centro",
+    "Cidade":"Paragominas",
+    "Estado":"PA",
+    "CEP":"68625-04"
+  },
+  {
+    "Unidade":"ARF Paraíso do Tocantins",
+    "Logradouro":"Rua Antônio Alencar Leão, nº 207",
+    "Bairro":"Bela Vista",
+    "Cidade":"Paraíso do Tocantins",
+    "Estado":"TO",
+    "CEP":"77600-000"
+  },
+  {
+    "Unidade":"ARF Paranaíba",
+    "Logradouro":"Rua Generoso Ponce, nº 1935",
+    "Bairro":"Centro",
+    "Cidade":"Paranaíba",
+    "Estado":"MS",
+    "CEP":"79500-000"
+  },
+  {
+    "Unidade":"ARF Paranavaí",
+    "Logradouro":"Avenida Heitor Alencar Furtado, nº 4047",
+    "Bairro":"Jd. Paraiso",
+    "Cidade":"Paranavaí",
+    "Estado":"PR",
+    "CEP":"87708-000"
+  },
+  {
+    "Unidade":"ARF Parintins",
+    "Logradouro":"Rua Governador Leopoldo Neves, nº 774",
+    "Bairro":"Centro",
+    "Cidade":"Parintins",
+    "Estado":"AM",
+    "CEP":"69151-460"
+  },
+  {
+    "Unidade":"ARF Passos",
+    "Logradouro":"Rua Olegário Maciel, nº 501, Loja",
+    "Bairro":"Centro",
+    "Cidade":"Passos",
+    "Estado":"MG",
+    "CEP":"37900-800"
+  },
+  {
+    "Unidade":"ARF Pato Branco",
+    "Logradouro":"Rua Aimoré, nº 389",
+    "Bairro":"Centro",
+    "Cidade":"Pato Branco",
+    "Estado":"PR",
+    "CEP":"85505-170"
+  },
+  {
+    "Unidade":"ARF Patos",
+    "Logradouro":"Rua Rui Barbosa, nº 297",
+    "Bairro":"Jardim Pedro Firmino",
+    "Cidade":"Patos",
+    "Estado":"PB",
+    "CEP":"58700-97"
+  },
+  {
+    "Unidade":"ARF Patos de Minas",
+    "Logradouro":"Rua Olegário Maciel, nº 30",
+    "Bairro":"Centro",
+    "Cidade":"Patos de Minas",
+    "Estado":"MG",
+    "CEP":"38700-122"
+  },
+  {
+    "Unidade":"ARF Patrocínio",
+    "Logradouro":"Rua Presidente Vargas, nº 1160",
+    "Bairro":"Centro",
+    "Cidade":"Patrocínio",
+    "Estado":"MG",
+    "CEP":"38740-000"
+  },
+  {
+    "Unidade":"ARF Paulista",
+    "Logradouro":"Praça João Pessoa, nº 25, 1º Andar",
+    "Bairro":"Centro",
+    "Cidade":"Paulista",
+    "Estado":"PE",
+    "CEP":"53401-340"
+  },
+  {
+    "Unidade":"ARF Paulo Afonso",
+    "Logradouro":"Rua Rua Amâncio Pereira, nº 268, Térreo",
+    "Bairro":"Centro",
+    "Cidade":"Paulo Afonso",
+    "Estado":"BA",
+    "CEP":"48602-110"
+  },
+  {
+    "Unidade":"ARF Pedreiras",
+    "Logradouro":"Rua Ciro Rego, nº 51, A",
+    "Bairro":"Centro",
+    "Cidade":"Pedreiras",
+    "Estado":"MA",
+    "CEP":"65725-000"
+  },
+  {
+    "Unidade":"ARF Pedro Leopoldo",
+    "Logradouro":"Avenida José Pires de Araújo, nº 345",
+    "Bairro":"Centro",
+    "Cidade":"Pedro Leopoldo",
+    "Estado":"MG",
+    "CEP":"33600-000"
+  },
+  {
+    "Unidade":"ARF Penápolis",
+    "Logradouro":"Avenida Bento da Cruz, nº 294",
+    "Bairro":"Centro",
+    "Cidade":"Penápolis",
+    "Estado":"SP",
+    "CEP":"16300-000"
+  },
+  {
+    "Unidade":"ARF Penedo",
+    "Logradouro":"Avenida Floriano Peixoto, nº 28",
+    "Bairro":"Histórico",
+    "Cidade":"Penedo",
+    "Estado":"AL",
+    "CEP":"57200-000"
+  },
+  {
+    "Unidade":"ARF Pereira Barreto",
+    "Logradouro":"Rua Dermival Franceschi, nº 1536",
+    "Bairro":"Centro",
+    "Cidade":"Pereira Barreto",
+    "Estado":"SP",
+    "CEP":"15370-000"
+  },
+  {
+    "Unidade":"ARF Pindamonhangaba",
+    "Logradouro":"Avenida Albuquerque Lins, nº 244",
+    "Bairro":"Campo Alegre",
+    "Cidade":"Pindamonhangaba",
+    "Estado":"SP",
+    "CEP":"12410-030"
+  },
+  {
+    "Unidade":"ARF Pinheiro",
+    "Logradouro":"Rua José Anastácio, nº 460",
+    "Bairro":"Centro",
+    "Cidade":"Pinheiro",
+    "Estado":"MA",
+    "CEP":"65200-000"
+  },
+  {
+    "Unidade":"ARF Piraju",
+    "Logradouro":"Avenida Dr. Domingos Theodoro Gallo, nº 419",
+    "Bairro":"Centro",
+    "Cidade":"Piraju",
+    "Estado":"SP",
+    "CEP":"18800-000"
+  },
+  {
+    "Unidade":"ARF Pirapora",
+    "Logradouro":"Rua Tiradentes, nº 134",
+    "Bairro":"Centro",
+    "Cidade":"Pirapora",
+    "Estado":"MG",
+    "CEP":"39270-000"
+  },
+  {
+    "Unidade":"ARF Pirassununga",
+    "Logradouro":"Rua 15 de Novembro, nº 1032",
+    "Bairro":"Centro",
+    "Cidade":"Pirassununga",
+    "Estado":"SP",
+    "CEP":"13630-140"
+  },
+  {
+    "Unidade":"ARF Ponta Porã",
+    "Logradouro":"Avenida Internacional, nº 860, Agência",
+    "Bairro":"Centro",
+    "Cidade":"Ponta Porã",
+    "Estado":"MS",
+    "CEP":"79990-000"
+  },
+  {
+    "Unidade":"ARF Ponte Nova",
+    "Logradouro":"Avenida Francisco Vieira Martins, nº 400",
+    "Bairro":"Palmeiras",
+    "Cidade":"Ponte Nova",
+    "Estado":"MG",
+    "CEP":"35430-225"
+  },
+  {
+    "Unidade":"ARF Porto Ferreira",
+    "Logradouro":"Rua Francisco Prado, nº 1515",
+    "Bairro":"Centro",
+    "Cidade":"Porto Ferreira",
+    "Estado":"SP",
+    "CEP":"13660-000"
+  },
+  {
+    "Unidade":"ARF Pouso Alegre",
+    "Logradouro":"Rua Jaci Laraia Vieira, nº 370",
+    "Bairro":"Santa Lúcia",
+    "Cidade":"Pouso Alegre",
+    "Estado":"MG",
+    "CEP":"37550-000"
+  },
+  {
+    "Unidade":"ARF Praia Grande - SP",
+    "Logradouro":"Avenida Presidente Costa e Silva, nº 794",
+    "Bairro":"Boqueirão",
+    "Cidade":"Praia Grande",
+    "Estado":"SP",
+    "CEP":"11700-005"
+  },
+  {
+    "Unidade":"ARF Presidente Dutra",
+    "Logradouro":"Rua Hamilton Sereno, nº 10",
+    "Bairro":"",
+    "Cidade":"Presidente Dutra",
+    "Estado":"MA",
+    "CEP":"65760-000"
+  },
+  {
+    "Unidade":"ARF Presidente Venceslau",
+    "Logradouro":"Rua Duque de Caxias, nº 368",
+    "Bairro":"Centro",
+    "Cidade":"Presidente Venceslau",
+    "Estado":"SP",
+    "CEP":"19400-000"
+  },
+  {
+    "Unidade":"ARF Propriá",
+    "Logradouro":"Avenida João Barbosa Porto",
+    "Bairro":"Bela Vista",
+    "Cidade":"Propriá",
+    "Estado":"SE",
+    "CEP":"49900-000"
+  },
+  {
+    "Unidade":"ARF Quixadá",
+    "Logradouro":"Rua Rui Brabosa , nº 559",
+    "Bairro":"Centro",
+    "Cidade":"Quixadá",
+    "Estado":"CE",
+    "CEP":"63900-000"
+  },
+  {
+    "Unidade":"ARF Quixeramobim",
+    "Logradouro":"Rua Monsenhor Salviano Pinto, nº 165",
+    "Bairro":"Centro",
+    "Cidade":"Quixeramobim",
+    "Estado":"CE",
+    "CEP":"63800-000"
+  },
+  {
+    "Unidade":"ARF Redenção",
+    "Logradouro":"Rua Ademar Guimarães, nº 15, Setor",
+    "Bairro":"Centro",
+    "Cidade":"Redenção",
+    "Estado":"PA",
+    "CEP":"68552-390"
+  },
+  {
+    "Unidade":"ARF Registro",
+    "Logradouro":"Avenida Prefeito Jonas Banks Leite, nº 1095",
+    "Bairro":"Centro",
+    "Cidade":"Registro",
+    "Estado":"SP",
+    "CEP":"11900-000"
+  },
+  {
+    "Unidade":"ARF Ribeira do Pombal",
+    "Logradouro":"AVENIDA DR OLIVEIRA BRITO, nº 304",
+    "Bairro":"CENTRO",
+    "Cidade":"RIBEIRA DO POMBAL",
+    "Estado":"BA",
+    "CEP":"48400-000"
+  },
+  {
+    "Unidade":"ARF Rio Claro",
+    "Logradouro":"Avenida 40, nº 456",
+    "Bairro":"Vila Operária",
+    "Cidade":"Rio Claro",
+    "Estado":"SP",
+    "CEP":"13504-140"
+  },
+  {
+    "Unidade":"ARF Rio do Sul",
+    "Logradouro":"Rua Carlos Gomes, nº 132",
+    "Bairro":"Centro",
+    "Cidade":"Rio do Sul",
+    "Estado":"SC",
+    "CEP":"89160-000"
+  },
+  {
+    "Unidade":"ARF Rio Verde",
+    "Logradouro":"Praça 5 de Agosto, nº 649",
+    "Bairro":"Centro",
+    "Cidade":"Rio Verde",
+    "Estado":"GO",
+    "CEP":"75901-260"
+  },
+  {
+    "Unidade":"ARF Rio Verde de Mato Grosso",
+    "Logradouro":"Avenida Barão do Rio Branco, nº 571",
+    "Bairro":"Centro",
+    "Cidade":"Rio V. de M. Grosso",
+    "Estado":"MS",
+    "CEP":"79480-000"
+  },
+  {
+    "Unidade":"ARF Rondonópolis",
+    "Logradouro":"Avenida Lions Internacional, nº 732",
+    "Bairro":"Vila Aurora I",
+    "Cidade":"Rondonópolis",
+    "Estado":"MT",
+    "CEP":"78740-046"
+  },
+  {
+    "Unidade":"ARF Russas",
+    "Logradouro":"Avenida Dom Lino, nº 128",
+    "Bairro":"Centro",
+    "Cidade":"Russas",
+    "Estado":"CE",
+    "CEP":"62900-000"
+  },
+  {
+    "Unidade":"ARF Santa Inês",
+    "Logradouro":"Avenida Alexandre Costa, nº 90, a",
+    "Bairro":"centro",
+    "Cidade":"Santa Ines",
+    "Estado":"MA",
+    "CEP":"65300-000"
+  },
+  {
+    "Unidade":"ARF Santa Maria da Vitória",
+    "Logradouro":"Praça Governador Luiz Vianna Filho, nº 63",
+    "Bairro":"Centro",
+    "Cidade":"Sta Maria da Vitória",
+    "Estado":"BA",
+    "CEP":"47640-000"
+  },
+  {
+    "Unidade":"ARF Santa Rita",
+    "Logradouro":"Avenida Virgínio Veloso Borges, nº 252",
+    "Bairro":"Alto do Eucalípto",
+    "Cidade":"Santa Rita",
+    "Estado":"PB",
+    "CEP":"58300-270"
+  },
+  {
+    "Unidade":"ARF Santana de Ipanema",
+    "Logradouro":"Praça Coronel Manoel Rodrigues da Rocha, nº 12",
+    "Bairro":"Centro",
+    "Cidade":"Santana de Ipanema",
+    "Estado":"AL",
+    "CEP":"57500-000"
+  },
+  {
+    "Unidade":"ARF Santo Amaro",
+    "Logradouro":"Praça da Purificação, nº 30",
+    "Bairro":"Centro",
+    "Cidade":"Santo Amaro",
+    "Estado":"BA",
+    "CEP":"44200-000"
+  },
+  {
+    "Unidade":"ARF Santo Antônio de Jesus",
+    "Logradouro":"Rua Roberto Santos / Itaguari Shopping, nº 96, 2º piso, lj. 208/210",
+    "Bairro":"Centro",
+    "Cidade":"S. Antônio de Jesus",
+    "Estado":"BA",
+    "CEP":"44572-060"
+  },
+  {
+    "Unidade":"ARF São Bento do Sul",
+    "Logradouro":"Rua Marechal Deodoro, nº 311",
+    "Bairro":"Centro",
+    "Cidade":"São Bento do Sul",
+    "Estado":"SC",
+    "CEP":"89280-133"
+  },
+  {
+    "Unidade":"ARF São Caetano do Sul",
+    "Logradouro":"Rua Manoel Coelho, nº 651",
+    "Bairro":"Centro",
+    "Cidade":"São Caetano do Sul",
+    "Estado":"SP",
+    "CEP":"09510-111"
+  },
+  {
+    "Unidade":"ARF São Carlos",
+    "Logradouro":"Avenida São Carlos, nº 991",
+    "Bairro":"Centro",
+    "Cidade":"São Carlos",
+    "Estado":"SP",
+    "CEP":"13560-010"
+  },
+  {
+    "Unidade":"ARF São Gabriel da Cachoeira",
+    "Logradouro":"Avenida Álvaro Maia, nº 308",
+    "Bairro":"Centro",
+    "Cidade":"São G. da Cachoeira",
+    "Estado":"AM",
+    "CEP":"69750-00"
+  },
+  {
+    "Unidade":"ARF São João da Boa Vista",
+    "Logradouro":"Rua Benedito Araújo, nº 170",
+    "Bairro":"Centro",
+    "Cidade":"São J. da Boa Vista",
+    "Estado":"SP",
+    "CEP":"13870-090"
+  },
+  {
+    "Unidade":"ARF São João Del Rei",
+    "Logradouro":"Avenida Hermilio Alves, nº 112",
+    "Bairro":"Centro",
+    "Cidade":"São João Del Rei",
+    "Estado":"MG",
+    "CEP":"36307-328"
+  },
+  {
+    "Unidade":"ARF São Joaquim da Barra",
+    "Logradouro":"Rua 15 de Novembro, nº 866",
+    "Bairro":"Centro",
+    "Cidade":"São Joaquim da Barra",
+    "Estado":"SP",
+    "CEP":"14600-000"
+  },
+  {
+    "Unidade":"ARF São José",
+    "Logradouro":"Avenida Lédio João Martins, nº 992",
+    "Bairro":"Kobrasol",
+    "Cidade":"São José",
+    "Estado":"SC",
+    "CEP":"88101-101"
+  },
+  {
+    "Unidade":"ARF São José do Rio Pardo",
+    "Logradouro":"Rua Marechal Floriano, nº 368",
+    "Bairro":"Centro",
+    "Cidade":"São J. do Rio Pardo",
+    "Estado":"SP",
+    "CEP":"13720-000"
+  },
+  {
+    "Unidade":"ARF São José dos Pinhais",
+    "Logradouro":"Rua Voluntários da Pátria, nº 365",
+    "Bairro":"Centro",
+    "Cidade":"São José dos Pinhais",
+    "Estado":"PR",
+    "CEP":"83005-020"
+  },
+  {
+    "Unidade":"ARF São Lourenço",
+    "Logradouro":"Rua dos Andradas, nº 92",
+    "Bairro":"Nossa Sra de Fátima",
+    "Cidade":"São Lourenço",
+    "Estado":"MG",
+    "CEP":"37470-000"
+  },
+  {
+    "Unidade":"ARF São Luiz de Montes Belos",
+    "Logradouro":"Avenida Hermórgenes Coelho, nº 1822",
+    "Bairro":"Centro",
+    "Cidade":"S. Luiz de M. Belos",
+    "Estado":"GO",
+    "CEP":"76100-000"
+  },
+  {
+    "Unidade":"ARF São Mateus",
+    "Logradouro":"Rua Dr Arlindo Sodré, nº 1024",
+    "Bairro":"Centro",
+    "Cidade":"São Mateus",
+    "Estado":"ES",
+    "CEP":"29930-290"
+  },
+  {
+    "Unidade":"ARF São Miguel do Guamá",
+    "Logradouro":"Avenida Lauro Sodré, nº 183",
+    "Bairro":"Centro",
+    "Cidade":"São Miguel do Guamá",
+    "Estado":"PA",
+    "CEP":"68660-000"
+  },
+  {
+    "Unidade":"ARF São Miguel dos Campos",
+    "Logradouro":"Travessa José Calazans, nº 389",
+    "Bairro":"Centro",
+    "Cidade":"São M. dos Campos",
+    "Estado":"AL",
+    "CEP":"57240-000"
+  },
+  {
+    "Unidade":"ARF São Roque",
+    "Logradouro":"Avenida Antonino Dias Bastos, nº 757, /761",
+    "Bairro":"Centro",
+    "Cidade":"São Roque",
+    "Estado":"SP",
+    "CEP":"18130-350"
+  },
+  {
+    "Unidade":"ARF São Sebastião do Paraíso",
+    "Logradouro":"Rua Carlos Mumic, nº 195",
+    "Bairro":"Vila Alza",
+    "Cidade":"S. S. do Paraíso",
+    "Estado":"MG",
+    "CEP":"37950-000"
+  },
+  {
+    "Unidade":"ARF Seabra",
+    "Logradouro":"Travessa Cônego João Pedro Alves, nº 10",
+    "Bairro":"Centro",
+    "Cidade":"Seabra",
+    "Estado":"BA",
+    "CEP":"46900-000"
+  },
+  {
+    "Unidade":"ARF Sena Madureira",
+    "Logradouro":"Rua Major João Câncio, nº 28",
+    "Bairro":"Centro",
+    "Cidade":"Sena Madureira",
+    "Estado":"AC",
+    "CEP":"69940-000"
+  },
+  {
+    "Unidade":"ARF Senhor do Bonfim",
+    "Logradouro":"Praça Dr. José Gonçalves, nº 336",
+    "Bairro":"Centro",
+    "Cidade":"Senhor do Bonfim",
+    "Estado":"BA",
+    "CEP":"48970-000"
+  },
+  {
+    "Unidade":"ARF Serra",
+    "Logradouro":"Avenida São José, Centro Comercial Planalto, nº 199, Loja 01",
+    "Bairro":"Jardim Limoeiro",
+    "Cidade":"Serra",
+    "Estado":"ES",
+    "CEP":"29164-037"
+  },
+  {
+    "Unidade":"ARF Serrinha",
+    "Logradouro":"Rua 2 de Julho, nº 157",
+    "Bairro":"Centro",
+    "Cidade":"Serrinha",
+    "Estado":"BA",
+    "CEP":"48700-000"
+  },
+  {
+    "Unidade":"ARF Sinop",
+    "Logradouro":"Av. das Figueiras, nº 828",
+    "Bairro":"Residencial Norte",
+    "Cidade":"Sinop",
+    "Estado":"MT",
+    "CEP":"78550-328"
+  },
+  {
+    "Unidade":"ARF Sousa",
+    "Logradouro":"Rua Eng. Carlos Pires de Sá, nº 11",
+    "Bairro":"Centro",
+    "Cidade":"Sousa",
+    "Estado":"PB",
+    "CEP":"58800-970"
+  },
+  {
+    "Unidade":"ARF Sumaré",
+    "Logradouro":"Avenida Brasil, nº 1111",
+    "Bairro":"Nova Veneza",
+    "Cidade":"Sumaré",
+    "Estado":"SP",
+    "CEP":"13177-310"
+  },
+  {
+    "Unidade":"ARF Suzano",
+    "Logradouro":"Rua General Francisco Glicério, nº 892",
+    "Bairro":"Centro",
+    "Cidade":"Suzano",
+    "Estado":"SP",
+    "CEP":"08674-002"
+  },
+  {
+    "Unidade":"ARF Taboão da Serra",
+    "Logradouro":"Rua João Café Filho, nº 105",
+    "Bairro":"Jardim São Miguel",
+    "Cidade":"Taboão da Serra",
+    "Estado":"SP",
+    "CEP":"06760-050"
+  },
+  {
+    "Unidade":"ARF Tangará da Serra",
+    "Logradouro":"Rua José Corsino, nº 203, S",
+    "Bairro":"Centro",
+    "Cidade":"Tangará da Serra",
+    "Estado":"MT",
+    "CEP":"78300-000"
+  },
+  {
+    "Unidade":"ARF Tatuí",
+    "Logradouro":"Rua Onze de Agosto, nº 1600",
+    "Bairro":"Jardim Santa Emília",
+    "Cidade":"Tatuí",
+    "Estado":"SP",
+    "CEP":"18277-000"
+  },
+  {
+    "Unidade":"ARF Tefé",
+    "Logradouro":"Rua Marechal Hermes, nº 639",
+    "Bairro":"Centro",
+    "Cidade":"Tefé",
+    "Estado":"AM",
+    "CEP":"69470-000"
+  },
+  {
+    "Unidade":"ARF Teixeira de Freitas",
+    "Logradouro":"Avenida Presidente Getúlio Vargas, nº 4085",
+    "Bairro":"Centro",
+    "Cidade":"Teixeira de Freitas",
+    "Estado":"BA",
+    "CEP":"45985-200"
+  },
+  {
+    "Unidade":"ARF Teófilo Otoni",
+    "Logradouro":"Rua Dr. João Antônio, nº 251, Térreo",
+    "Bairro":"Centro",
+    "Cidade":"Teófilo Otoni",
+    "Estado":"MG",
+    "CEP":"39800-016"
+  },
+  {
+    "Unidade":"ARF Tietê",
+    "Logradouro":"Rua Joaquim Tobias do Amaral Germano, nº 95",
+    "Bairro":"Vila Santo André",
+    "Cidade":"Tietê",
+    "Estado":"SP",
+    "CEP":"18530-000"
+  },
+  {
+    "Unidade":"ARF Timbó",
+    "Logradouro":"Rua General Osório, nº 311, Sala 5",
+    "Bairro":"Centro",
+    "Cidade":"Timbó",
+    "Estado":"SC",
+    "CEP":"89120-000"
+  },
+  {
+    "Unidade":"ARF Toledo",
+    "Logradouro":"Rua Rui Barbosa, nº 2510",
+    "Bairro":"Centro",
+    "Cidade":"Toledo",
+    "Estado":"PR",
+    "CEP":"85900-040"
+  },
+  {
+    "Unidade":"ARF Três Lagoas",
+    "Logradouro":"Rua Manoel Pedro de Campos, nº 100",
+    "Bairro":"Centro",
+    "Cidade":"Três Lagoas",
+    "Estado":"MS",
+    "CEP":"79630-002"
+  },
+  {
+    "Unidade":"ARF Tubarão",
+    "Logradouro":"Rua Tubalcain Faraco, Edifício Center Park, nº 85, 8º Andar",
+    "Bairro":"Centro",
+    "Cidade":"Tubarão",
+    "Estado":"SC",
+    "CEP":"88701-150"
+  },
+  {
+    "Unidade":"ARF Tucuruí",
+    "Logradouro":"CENTRO COMERCIAL CENTRO COMERCIAL - BLOCO S - LOJAS 1 E 2, nº 1",
+    "Bairro":"VILA PERMANENTE",
+    "Cidade":"TUCURUI",
+    "Estado":"PA",
+    "CEP":"68464-000"
+  },
+  {
+    "Unidade":"ARF Tupã",
+    "Logradouro":"Avenida Tamoios, nº 1320",
+    "Bairro":"Centro",
+    "Cidade":"Tupã",
+    "Estado":"SP",
+    "CEP":"17600-005"
+  },
+  {
+    "Unidade":"ARF Ubá",
+    "Logradouro":"Avenida Raul Soares, nº 47",
+    "Bairro":"Centro",
+    "Cidade":"Ubá",
+    "Estado":"MG",
+    "CEP":"36500-000"
+  },
+  {
+    "Unidade":"ARF Ubajara",
+    "Logradouro":"Rua Monsenhor Gonçalo Eufrásio, nº 962",
+    "Bairro":"Monte Castelo",
+    "Cidade":"Ubajara",
+    "Estado":"CE",
+    "CEP":"62350-000"
+  },
+  {
+    "Unidade":"ARF Ubatuba",
+    "Logradouro":"RUA DONA MARIA ALVES, nº 548",
+    "Bairro":"CENTRO",
+    "Cidade":"UBATUBA",
+    "Estado":"SP",
+    "CEP":"11680-000"
+  },
+  {
+    "Unidade":"ARF Umuarama",
+    "Logradouro":"Avenida Presidente Castelo Branco, nº 4195",
+    "Bairro":"Centro",
+    "Cidade":"Umuarama",
+    "Estado":"PR",
+    "CEP":"87501-170"
+  },
+  {
+    "Unidade":"ARF União da Vitória",
+    "Logradouro":"RUA MARECHAL DEODORO, nº 71, TERREO",
+    "Bairro":"CENTRO",
+    "Cidade":"UNIAO DA VITORIA",
+    "Estado":"PR",
+    "CEP":"84600-000"
+  },
+  {
+    "Unidade":"ARF União dos Palmares",
+    "Logradouro":"Rua Correia de Oliveira, nº 97",
+    "Bairro":"Centro",
+    "Cidade":"União dos Palmares",
+    "Estado":"AL",
+    "CEP":"57800-000"
+  },
+  {
+    "Unidade":"ARF Uruaçu",
+    "Logradouro":"Avenida Coronel Gaspar, nº 176",
+    "Bairro":"Centro",
+    "Cidade":"Uruaçu",
+    "Estado":"GO",
+    "CEP":"76400-000"
+  },
+  {
+    "Unidade":"ARF Valença",
+    "Logradouro":"Praça da República, nº 42, Térreo",
+    "Bairro":"Centro",
+    "Cidade":"Valença",
+    "Estado":"BA",
+    "CEP":"45400-000"
+  },
+  {
+    "Unidade":"ARF Videira",
+    "Logradouro":"Rua Padre Anchieta, nº 1104",
+    "Bairro":"Matriz",
+    "Cidade":"Videira",
+    "Estado":"SC",
+    "CEP":"89560-000"
+  },
+  {
+    "Unidade":"ARF Vila Velha",
+    "Logradouro":"Rua Henrique Laranja, nº 400, Ed. Montreal",
+    "Bairro":"Centro",
+    "Cidade":"Vila Velha",
+    "Estado":"ES",
+    "CEP":"29100-350"
+  },
+  {
+    "Unidade":"ARF Votuporanga",
+    "Logradouro":"Rua Tietê, nº 3291",
+    "Bairro":"Centro",
+    "Cidade":"Votuporanga",
+    "Estado":"SP",
+    "CEP":"15505-186"
+  },
+  {
+    "Unidade":"ARF Xanxerê",
+    "Logradouro":"Rua Olimpio Julio Tortato, nº 275",
+    "Bairro":"Centro",
+    "Cidade":"Xanxerê",
+    "Estado":"SC",
+    "CEP":"89820-000"
+  },
+  {
+    "Unidade":"CAC ALF - Paranaguá",
+    "Logradouro":"RUA CORONEL JOSÉ LOBO, nº 2300",
+    "Bairro":"OCEANIA",
+    "Cidade":"PARANAGUÁ",
+    "Estado":"PR",
+    "CEP":"83203-340"
+  },
+  {
+    "Unidade":"CAC Anápolis",
+    "Logradouro":"Avenida Presidente Wilson, nº 710",
+    "Bairro":"Jundiai Industrial",
+    "Cidade":"Anápolis",
+    "Estado":"GO",
+    "CEP":"75115-100"
+  },
+  {
+    "Unidade":"CAC Aracaju",
+    "Logradouro":"Rua Paulo Henrique Machado Pimentel, nº 140, DIA",
+    "Bairro":"Distrito Industrial",
+    "Cidade":"Aracaju",
+    "Estado":"SE",
+    "CEP":"49040-740"
+  },
+  {
+    "Unidade":"CAC Araçatuba",
+    "Logradouro":"Rua Edgar Jardim Bastos, nº 168",
+    "Bairro":"Jardim Nova Iorque",
+    "Cidade":"Araçatuba",
+    "Estado":"SP",
+    "CEP":"16018-410"
+  },
+  {
+    "Unidade":"CAC Araraquara",
+    "Logradouro":"Avenida Rodrigo Fernando Grillo, nº 2775",
+    "Bairro":"Jardim dos Manacás",
+    "Cidade":"Araraquara",
+    "Estado":"SP",
+    "CEP":"14801-534"
+  },
+  {
+    "Unidade":"CAC Barueri",
+    "Logradouro":"Avenida Tucunaré, nº 292",
+    "Bairro":"Tamboré",
+    "Cidade":"Barueri",
+    "Estado":"SP",
+    "CEP":"06460-020"
+  },
+  {
+    "Unidade":"CAC Bauru",
+    "Logradouro":"Rua Treze de Maio, nº 20, Quadra 7",
+    "Bairro":"Centro",
+    "Cidade":"Bauru",
+    "Estado":"SP",
+    "CEP":"17015-902"
+  },
+  {
+    "Unidade":"CAC Belém",
+    "Logradouro":"AVENIDA GOVERNADOR JOSE MALCHER, nº 2803",
+    "Bairro":"SAO BRAS",
+    "Cidade":"BELEM",
+    "Estado":"PA",
+    "CEP":"66090-100"
+  },
+  {
+    "Unidade":"CAC BHE Afonso Pena",
+    "Logradouro":"Avenida Afonso Pena, nº 1316, 2º Andar",
+    "Bairro":"Centro",
+    "Cidade":"Belo Horizonte",
+    "Estado":"MG",
+    "CEP":"30190-917"
+  },
+  {
+    "Unidade":"CAC BHE Contorno",
+    "Logradouro":"Rua Levindo Lopes, nº 357",
+    "Bairro":"Savassi",
+    "Cidade":"Belo Horizonte",
+    "Estado":"MG",
+    "CEP":"30140-170"
+  },
+  {
+    "Unidade":"CAC Blumenau",
+    "Logradouro":"Rua Namy Deeke, nº 40",
+    "Bairro":"Centro",
+    "Cidade":"Blumenau",
+    "Estado":"SC",
+    "CEP":"89010-130"
+  },
+  {
+    "Unidade":"CAC Boa Vista",
+    "Logradouro":"Rua Agnelo Bittencourt, nº 106",
+    "Bairro":"Centro",
+    "Cidade":"Boa Vista",
+    "Estado":"RR",
+    "CEP":"69301-430"
+  },
+  {
+    "Unidade":"CAC Brasília",
+    "Logradouro":"SAS Qd. 03 Bloco O Térreo",
+    "Bairro":"Asa Sul",
+    "Cidade":"Brasília",
+    "Estado":"DF",
+    "CEP":"70079-900"
+  },
+  {
+    "Unidade":"CAC Camaçari",
+    "Logradouro":"Rua do Contorno, s/n - Centro",
+    "Bairro":"Administrativo",
+    "Cidade":"Camaçari",
+    "Estado":"BA",
+    "CEP":"42800-610"
+  },
+  {
+    "Unidade":"CAC Campina Grande",
+    "Logradouro":"Avenida Janúncio Ferreira, nº 680",
+    "Bairro":"",
+    "Cidade":"Campina Grande",
+    "Estado":"PB",
+    "CEP":"58102-55"
+  },
+  {
+    "Unidade":"CAC Campinas",
+    "Logradouro":"Avenida Gov. Pedro de Toledo, nº 334",
+    "Bairro":"Bonfim",
+    "Cidade":"Campinas",
+    "Estado":"SP",
+    "CEP":"13070-752"
+  },
+  {
+    "Unidade":"CAC Campo Grande",
+    "Logradouro":"Rua Desembargador Leão Neto Do Carmo, nº 3",
+    "Bairro":"Jardim Veraneio",
+    "Cidade":"Campo Grande",
+    "Estado":"MS",
+    "CEP":"79037-902"
+  },
+  {
+    "Unidade":"CAC Caruaru",
+    "Logradouro":"Rua Frei Caneca, nº 152",
+    "Bairro":"Nossa Sra das Dores",
+    "Cidade":"Caruaru",
+    "Estado":"PE",
+    "CEP":"55012-330"
+  },
+  {
+    "Unidade":"CAC Cascavel",
+    "Logradouro":"Rua Rio Grande do Sul, nº 1289",
+    "Bairro":"Centro",
+    "Cidade":"Cascavel",
+    "Estado":"PR",
+    "CEP":"85801-901"
+  },
+  {
+    "Unidade":"CAC Contagem",
+    "Logradouro":"Avenida José Faria da Rocha, nº 5531, Térreo",
+    "Bairro":"Eldorado",
+    "Cidade":"Contagem",
+    "Estado":"MG",
+    "CEP":"32310-210"
+  },
+  {
+    "Unidade":"CAC Coronel Fabriciano",
+    "Logradouro":"Avenida Rubens Siqueira Maia, nº 1",
+    "Bairro":"-",
+    "Cidade":"Coronel Fabriciano",
+    "Estado":"MG",
+    "CEP":"35170-460"
+  },
+  {
+    "Unidade":"CAC CPF/Praça Ramos de Azevedo/SP",
+    "Logradouro":"Rua Coronel Xavier de Toledo, nº 23, 2º Andar",
+    "Bairro":"Centro",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"01048-100"
+  },
+  {
+    "Unidade":"CAC Cuiabá",
+    "Logradouro":"Avenida Vereador Juliano da Costa Marques, nº 99",
+    "Bairro":"Bosque da Saúde",
+    "Cidade":"Cuiabá",
+    "Estado":"MT",
+    "CEP":"78050-600"
+  },
+  {
+    "Unidade":"CAC Curitiba - Centro",
+    "Logradouro":"Rua Marechal Deodoro, nº 555, Térreo",
+    "Bairro":"Centro",
+    "Cidade":"Curitiba",
+    "Estado":"PR",
+    "CEP":"80020-911"
+  },
+  {
+    "Unidade":"CAC Divinópolis",
+    "Logradouro":"Rua São Paulo, nº 267",
+    "Bairro":"Centro",
+    "Cidade":"Divinópolis",
+    "Estado":"MG",
+    "CEP":"35500-006"
+  },
+  {
+    "Unidade":"CAC Dourados",
+    "Logradouro":"Avenida Marcelino Pires, nº 1595",
+    "Bairro":"Centro",
+    "Cidade":"Dourados",
+    "Estado":"MS",
+    "CEP":"79800-004"
+  },
+  {
+    "Unidade":"CAC Feira de Santana",
+    "Logradouro":"Avenida Getúlio Vargas, nº 195",
+    "Bairro":"Centro",
+    "Cidade":"Feira de Santana",
+    "Estado":"BA",
+    "CEP":"44001-525"
+  },
+  {
+    "Unidade":"CAC Florianópolis",
+    "Logradouro":"Rua Claudino Bento da Silva , nº 11, (Final Rua Hoepcke)",
+    "Bairro":"Centro",
+    "Cidade":"Florianópolis",
+    "Estado":"SC",
+    "CEP":"88010-135"
+  },
+  {
+    "Unidade":"CAC Fortaleza",
+    "Logradouro":"Rua Barão de Aracati, nº 909, 1º SL",
+    "Bairro":"Aldeota",
+    "Cidade":"Fortaleza",
+    "Estado":"CE",
+    "CEP":"60115-090"
+  },
+  {
+    "Unidade":"CAC Foz do Iguaçu",
+    "Logradouro":"Avenida Paraná, nº 1227",
+    "Bairro":"-",
+    "Cidade":"Foz do Iguaçu",
+    "Estado":"PR",
+    "CEP":"85863-720"
+  },
+  {
+    "Unidade":"CAC Franca",
+    "Logradouro":"Rua Frei Germano, nº 2324",
+    "Bairro":"Estação",
+    "Cidade":"Franca",
+    "Estado":"SP",
+    "CEP":"14405-215"
+  },
+  {
+    "Unidade":"CAC Goiânia",
+    "Logradouro":"Avenida NONA AVENIDA, QD. A 34, LT 01/11",
+    "Bairro":"Leste Universitário",
+    "Cidade":"Goiânia",
+    "Estado":"GO",
+    "CEP":"74603-010"
+  },
+  {
+    "Unidade":"CAC Governador Valadares",
+    "Logradouro":"Avenida Brasil, nº 2866, Térreo",
+    "Bairro":"Centro",
+    "Cidade":"Governador Valadares",
+    "Estado":"MG",
+    "CEP":"35020-070"
+  },
+  {
+    "Unidade":"CAC Guarulhos",
+    "Logradouro":"Rua da Cantareira, nº 164",
+    "Bairro":"Vila Augusta",
+    "Cidade":"Guarulhos",
+    "Estado":"SP",
+    "CEP":"07024-160"
+  },
+  {
+    "Unidade":"CAC Imperatriz",
+    "Logradouro":"Rua Rui Barbosa, nº 302",
+    "Bairro":"Centro",
+    "Cidade":"Imperatriz",
+    "Estado":"MA",
+    "CEP":"65900-440"
+  },
+  {
+    "Unidade":"CAC Itabuna",
+    "Logradouro":"Avenida Amélia Amado, nº 5",
+    "Bairro":"Centro",
+    "Cidade":"Itabuna",
+    "Estado":"BA",
+    "CEP":"45600-050"
+  },
+  {
+    "Unidade":"CAC Itajaí",
+    "Logradouro":"Rua Pedro Ferreira, nº 34",
+    "Bairro":"Centro",
+    "Cidade":"Itajaí",
+    "Estado":"SC",
+    "CEP":"88301-03"
+  },
+  {
+    "Unidade":"CAC Joaçaba",
+    "Logradouro":"Rua Getúlio Vargas, nº 345",
+    "Bairro":"-",
+    "Cidade":"Joaçaba",
+    "Estado":"SC",
+    "CEP":"89600-000"
+  },
+  {
+    "Unidade":"CAC João Pessoa",
+    "Logradouro":"Avenida Epitácio Pessoa, nº 1705, Térreo",
+    "Bairro":"dos Estados",
+    "Cidade":"João Pessoa",
+    "Estado":"PB",
+    "CEP":"58030-900"
+  },
+  {
+    "Unidade":"CAC Joinville",
+    "Logradouro":"Rua Saguaçu, nº 182",
+    "Bairro":"Saguaçu",
+    "Cidade":"Joinville",
+    "Estado":"SC",
+    "CEP":"89221-010"
+  },
+  {
+    "Unidade":"CAC Juazeiro do Norte",
+    "Logradouro":"Rua José Andrade de Lavor, nº 2001",
+    "Bairro":"Santa Tereza",
+    "Cidade":"Juazeiro do Norte",
+    "Estado":"CE",
+    "CEP":"63050-430"
+  },
+  {
+    "Unidade":"CAC Juiz de Fora",
+    "Logradouro":"Avenida Barão do Rio Branco, nº 372",
+    "Bairro":"Manoel Honório",
+    "Cidade":"Juiz de Fora",
+    "Estado":"MG",
+    "CEP":"36045-120"
+  },
+  {
+    "Unidade":"CAC Jundiaí",
+    "Logradouro":"Avenida Dr. Cavalcanti, nº 241",
+    "Bairro":"Vila Arens",
+    "Cidade":"Jundiaí",
+    "Estado":"SP",
+    "CEP":"13201-003"
+  },
+  {
+    "Unidade":"CAC Lages",
+    "Logradouro":"Avenida Presidente Vargas, nº 635",
+    "Bairro":"Centro",
+    "Cidade":"Lages",
+    "Estado":"SC",
+    "CEP":"88508-110"
+  },
+  {
+    "Unidade":"CAC Limeira",
+    "Logradouro":"Rua Pedro Zaccaria, nº 444",
+    "Bairro":"Jardim Santa Luiza",
+    "Cidade":"Limeira",
+    "Estado":"SP",
+    "CEP":"13484-350"
+  },
+  {
+    "Unidade":"CAC Londrina",
+    "Logradouro":"Rua Brasil, nº 865",
+    "Bairro":"Centro",
+    "Cidade":"Londrina",
+    "Estado":"PR",
+    "CEP":"86010-916"
+  },
+  {
+    "Unidade":"CAC Macapá",
+    "Logradouro":"Rua Eliezer Levy, nº 1350, Terreo",
+    "Bairro":"Central",
+    "Cidade":"Macapá",
+    "Estado":"AP",
+    "CEP":"68906-400"
+  },
+  {
+    "Unidade":"CAC Maceió",
+    "Logradouro":"Rua Sá e Albuquerque, nº 541, Prédio Anexo",
+    "Bairro":"Jaraguá",
+    "Cidade":"Maceió",
+    "Estado":"AL",
+    "CEP":"57025-902"
+  },
+  {
+    "Unidade":"CAC Malha - DEFIS",
+    "Logradouro":"Rua Florêncio Abreu, nº 770, Térreo",
+    "Bairro":"Luz",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"01030-000"
+  },
+  {
+    "Unidade":"CAC Manaus",
+    "Logradouro":"Avenida São Jorge, nº 2878",
+    "Bairro":"São Jorge",
+    "Cidade":"Manaus",
+    "Estado":"AM",
+    "CEP":"69030-680"
+  },
+  {
+    "Unidade":"CAC Marabá",
+    "Logradouro":"Folha CSI 31 Quadra 08, nº 31, Lote 7 e 8",
+    "Bairro":"Nova Marabá",
+    "Cidade":"Marabá",
+    "Estado":"PA",
+    "CEP":"68507-600"
+  },
+  {
+    "Unidade":"CAC Marília",
+    "Logradouro":"Avenida Sampaio Vidal, nº 789",
+    "Bairro":"Centro",
+    "Cidade":"Marília",
+    "Estado":"SP",
+    "CEP":"17500-021"
+  },
+  {
+    "Unidade":"CAC Maringá",
+    "Logradouro":"Avenida 15 de Novembro, nº 527, Ao lado Correio",
+    "Bairro":"Centro",
+    "Cidade":"Maringá",
+    "Estado":"PR",
+    "CEP":"87013-909"
+  },
+  {
+    "Unidade":"CAC Montes Claros",
+    "Logradouro":"AV. Deputado Esteves Rodrigues, nº 2810",
+    "Bairro":"Centro",
+    "Cidade":"Montes Claros",
+    "Estado":"MG",
+    "CEP":"39400-141"
+  },
+  {
+    "Unidade":"CAC Osasco",
+    "Logradouro":"Rua Avelino Lopes, nº 170",
+    "Bairro":"Centro",
+    "Cidade":"Osasco",
+    "Estado":"SP",
+    "CEP":"06090-902"
+  },
+  {
+    "Unidade":"CAC Palmas",
+    "Logradouro":"Rua NE 13, Conjunto 03, Lotes 05 e 06",
+    "Bairro":"202 Norte",
+    "Cidade":"Palmas",
+    "Estado":"TO",
+    "CEP":"77054-010"
+  },
+  {
+    "Unidade":"CAC Piracicaba",
+    "Logradouro":"Avenida Independência, nº 3601",
+    "Bairro":"dos Alemães",
+    "Cidade":"Piracicaba",
+    "Estado":"SP",
+    "CEP":"13416-240"
+  },
+  {
+    "Unidade":"CAC Poços de Caldas",
+    "Logradouro":"Rua São Paulo, nº 461",
+    "Bairro":"Centro",
+    "Cidade":"Poços de Caldas",
+    "Estado":"MG",
+    "CEP":"37701-012"
+  },
+  {
+    "Unidade":"CAC Ponta Grossa",
+    "Logradouro":"Avenida Visconde de Taunay, nº 1051",
+    "Bairro":"Ronda",
+    "Cidade":"Ponta Grossa",
+    "Estado":"PR",
+    "CEP":"84051-902"
+  },
+  {
+    "Unidade":"CAC Poupatempo Itaquera SP",
+    "Logradouro":"Avenida do Contorno, nº 60, Ala azul - B",
+    "Bairro":"Itaquera",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"08220-380"
+  },
+  {
+    "Unidade":"CAC Presidente Prudente",
+    "Logradouro":"Avenida Onze de Maio, nº 1319",
+    "Bairro":"Cidade Universitária",
+    "Cidade":"Presidente Prudente",
+    "Estado":"SP",
+    "CEP":"19050-050"
+  },
+  {
+    "Unidade":"CAC Recife - Boa Viagem",
+    "Logradouro":"Av. Conselheiro Aguiar, nº 740",
+    "Bairro":"Pina",
+    "Cidade":"Recife",
+    "Estado":"PE",
+    "CEP":"51011-030"
+  },
+  {
+    "Unidade":"CAC Recife - Centro",
+    "Logradouro":"Av. Alfredo Lisboa, nº 1152, Térreo",
+    "Bairro":"Recife Antigo",
+    "Cidade":"Recife",
+    "Estado":"PE",
+    "CEP":"50030-150"
+  },
+  {
+    "Unidade":"CAC Ribeirão Preto",
+    "Logradouro":"Avenida Dr. Francisco Junqueira, nº 2625",
+    "Bairro":"Jardim Macedo",
+    "Cidade":"Ribeirão Preto",
+    "Estado":"SP",
+    "CEP":"14091-902"
+  },
+  {
+    "Unidade":"CAC Rio Branco",
+    "Logradouro":"Rua Marechal Deodoro, nº 340",
+    "Bairro":"Centro",
+    "Cidade":"Rio Branco",
+    "Estado":"AC",
+    "CEP":"69900-903"
+  },
+  {
+    "Unidade":"CAC Salvador",
+    "Logradouro":"Rua Alceu Amoroso Lima, nº 862",
+    "Bairro":"Caminho das Árvores",
+    "Cidade":"Salvador",
+    "Estado":"BA",
+    "CEP":"41820-770"
+  },
+  {
+    "Unidade":"CAC Santarém",
+    "Logradouro":"Avenida Tapajós, nº 277",
+    "Bairro":"Centro",
+    "Cidade":"Santarém",
+    "Estado":"PA",
+    "CEP":"68005-000"
+  },
+  {
+    "Unidade":"CAC Santo André",
+    "Logradouro":"Avenida José Caballero, nº 35, térreo",
+    "Bairro":"Vila Bastos",
+    "Cidade":"Santo André",
+    "Estado":"SP",
+    "CEP":"09040-902"
+  },
+  {
+    "Unidade":"CAC Santos",
+    "Logradouro":"Rua do Comércio, nº 86",
+    "Bairro":"Centro",
+    "Cidade":"Santos",
+    "Estado":"SP",
+    "CEP":"11010-140"
+  },
+  {
+    "Unidade":"CAC São Bernardo do Campo",
+    "Logradouro":"Rua Marechal Deodoro, nº 480, Térreo",
+    "Bairro":"Centro",
+    "Cidade":"S. Bernardo do Campo",
+    "Estado":"SP",
+    "CEP":"09710-000"
+  },
+  {
+    "Unidade":"CAC São José do Rio Preto",
+    "Logradouro":"RUA ROBERTO MANGE, nº 360",
+    "Bairro":"Nova Redentora",
+    "Cidade":"São José Rio Preto",
+    "Estado":"SP",
+    "CEP":"15090-901"
+  },
+  {
+    "Unidade":"CAC São José dos Campos",
+    "Logradouro":"Avenida Nove de Julho, nº 332",
+    "Bairro":"Jardim Apolo",
+    "Cidade":"São José dos Campos",
+    "Estado":"SP",
+    "CEP":"12243-000"
+  },
+  {
+    "Unidade":"CAC São Luís",
+    "Logradouro":"Rua Osvaldo Cruz, nº 1618",
+    "Bairro":"Canto Fabril",
+    "Cidade":"São Luís",
+    "Estado":"MA",
+    "CEP":"65020-902"
+  },
+  {
+    "Unidade":"CAC São Paulo - CNPJ",
+    "Logradouro":"Rua Isidro Tinoco, nº 82",
+    "Bairro":"Tatuapé",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"03316-010"
+  },
+  {
+    "Unidade":"CAC São Paulo - DEINF",
+    "Logradouro":"Rua Avanhandava, nº 55, 1º Andar",
+    "Bairro":"Bela Vista",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"01306-900"
+  },
+  {
+    "Unidade":"CAC São Paulo - Integração RFB/PGFN",
+    "Logradouro":"Alameda Santos, nº 637, Térreo",
+    "Bairro":"Jardim Paulista",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"01419-001"
+  },
+  {
+    "Unidade":"CAC São Paulo - Lapa",
+    "Logradouro":"Rua Schilling, nº 512",
+    "Bairro":"Leopoldina",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"05302-000"
+  },
+  {
+    "Unidade":"CAC São Paulo - Luz",
+    "Logradouro":"Avenida Prestes Maia, nº 733, 2º andar - sala 201",
+    "Bairro":"Luz",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"01031-905"
+  },
+  {
+    "Unidade":"CAC São Paulo - Parcelamento",
+    "Logradouro":". UNIDADE DESATIVADA, .",
+    "Bairro":".",
+    "Cidade":".",
+    "Estado":"SP",
+    "CEP":"00000-000"
+  },
+  {
+    "Unidade":"CAC São Paulo - Paulista",
+    "Logradouro":"Rua Augusta, nº 1582",
+    "Bairro":"Consolação",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"01304-000"
+  },
+  {
+    "Unidade":"CAC São Paulo - Santo Amaro",
+    "Logradouro":"Rua Padre José de Anchieta, nº 76",
+    "Bairro":"Santo Amaro",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"04742-000"
+  },
+  {
+    "Unidade":"CAC São Paulo - Tatuapé",
+    "Logradouro":"Rua Tijuco Preto, nº 205",
+    "Bairro":"Tatuapé",
+    "Cidade":"São Paulo",
+    "Estado":"SP",
+    "CEP":"03316-000"
+  },
+  {
+    "Unidade":"CAC Sete Lagoas",
+    "Logradouro":"Avenida Dr. Renato Azeredo, nº 433",
+    "Bairro":"Canaan",
+    "Cidade":"Sete Lagoas",
+    "Estado":"MG",
+    "CEP":"35700-312"
+  },
+  {
+    "Unidade":"CAC Sobral",
+    "Logradouro":"Rua Eurípedes Ferreira Gomes, nº 720",
+    "Bairro":"Betânia",
+    "Cidade":"Sobral",
+    "Estado":"CE",
+    "CEP":"62040-075"
+  },
+  {
+    "Unidade":"CAC Sorocaba",
+    "Logradouro":"Rua Professor Dirceu Ferreira da Silva, nº 111",
+    "Bairro":"Alto da Boa Vista",
+    "Cidade":"Sorocaba",
+    "Estado":"SP",
+    "CEP":"18013-565"
+  },
+  {
+    "Unidade":"CAC Taguatinga",
+    "Logradouro":"QSD Área Especial Comércio-Lote 4, Ed SPAZZIO DUO",
+    "Bairro":"Taguatinga Sul",
+    "Cidade":"Taguatinga",
+    "Estado":"DF",
+    "CEP":"72020-111"
+  },
+  {
+    "Unidade":"CAC Taubaté",
+    "Logradouro":"Rua Marechal Arthur da Costa e Silva, nº 730",
+    "Bairro":"Centro",
+    "Cidade":"Taubaté",
+    "Estado":"SP",
+    "CEP":"12010-490"
+  },
+  {
+    "Unidade":"CAC Uberaba",
+    "Logradouro":"Avenida Maria Carmelita Castro Cunha, nº 165",
+    "Bairro":"Vila Olímpica",
+    "Cidade":"Uberaba",
+    "Estado":"MG",
+    "CEP":"38065-320"
+  },
+  {
+    "Unidade":"CAC Uberlândia",
+    "Logradouro":"Avenida Rondon Pacheco, nº 4488",
+    "Bairro":"Tibery",
+    "Cidade":"Uberlândia",
+    "Estado":"MG",
+    "CEP":"38405-142"
+  },
+  {
+    "Unidade":"CAC Varginha",
+    "Logradouro":"Av Rui Barbosa, nº 10, Térreo",
+    "Bairro":"Centro",
+    "Cidade":"Varginha",
+    "Estado":"MG",
+    "CEP":"37002-140"
+  },
+  {
+    "Unidade":"CAC Vitória",
+    "Logradouro":"Rua Pietrângelo de Biase, nº 56, Térreo",
+    "Bairro":"Centro",
+    "Cidade":"Vitória",
+    "Estado":"ES",
+    "CEP":"29010-190"
+  },
+  {
+    "Unidade":"CAC Vitória da Conquista",
+    "Logradouro":"Praça Virgilio Ferraz, nº 32",
+    "Bairro":"Centro",
+    "Cidade":"Vitória da Conquista",
+    "Estado":"BA",
+    "CEP":"45000-901"
+  },
+  {
+    "Unidade":"INC Assis Brasil",
+    "Logradouro":"Rua Neide Batista, nº 480",
+    "Bairro":"Centro",
+    "Cidade":"Assis Brazil",
+    "Estado":"AC",
+    "CEP":"69935-000"
+  },
+  {
+    "Unidade":"IRF Aeroporto Int. Eduardo Gomes",
+    "Logradouro":"Av. Santos Dumont, nº 1350",
+    "Bairro":"Taruma",
+    "Cidade":"Manaus",
+    "Estado":"AM",
+    "CEP":"69049-600"
+  },
+  {
+    "Unidade":"IRF Almerim",
+    "Logradouro":"Centro Administrativo do Serviço Público Federal - Monte Dourado, Bloco C",
+    "Bairro":"Centro",
+    "Cidade":"Almerim",
+    "Estado":"PA",
+    "CEP":"68240-000"
+  },
+  {
+    "Unidade":"IRF ARATU-CANDEIAS",
+    "Logradouro":"VIA MATOIN S/N - PORTO DE ARATU",
+    "Bairro":"BAHIA DE ARATU",
+    "Cidade":"CANDEIAS",
+    "Estado":"BA",
+    "CEP":"43800-000"
+  },
+  {
+    "Unidade":"IRF Bonfim",
+    "Logradouro":"Av. São Sebastião, nº 84",
+    "Bairro":"Centro",
+    "Cidade":"Bonfim",
+    "Estado":"RR",
+    "CEP":"69380-000"
+  },
+  {
+    "Unidade":"IRF Brasileia",
+    "Logradouro":"Avenida Prefeito Rolando Moreira, nº 99",
+    "Bairro":"Centro",
+    "Cidade":"Brasiléia",
+    "Estado":"AC",
+    "CEP":"69932-000"
+  },
+  {
+    "Unidade":"IRF Cabedelo",
+    "Logradouro":"Rua Presidente João Pessoa, nº 65",
+    "Bairro":"Centro",
+    "Cidade":"Cabedelo",
+    "Estado":"PB",
+    "CEP":"58310-970"
+  },
+  {
+    "Unidade":"IRF Cáceres",
+    "Logradouro":"Rua Padre Cassimiro, nº 850",
+    "Bairro":"Centro",
+    "Cidade":"Cáceres",
+    "Estado":"MT",
+    "CEP":"78200-000"
+  },
+  {
+    "Unidade":"IRF Capanema",
+    "Logradouro":"Rua Padre Cirilo, nº 212",
+    "Bairro":"Centro",
+    "Cidade":"Capanema",
+    "Estado":"PR",
+    "CEP":"85760-000"
+  },
+  {
+    "Unidade":"IRF Cruzeiro do Sul",
+    "Logradouro":"Avenida Joaquim Távora, nº 31",
+    "Bairro":"Centro",
+    "Cidade":"Cruzeiro do Sul",
+    "Estado":"AC",
+    "CEP":"69980-000"
+  },
+  {
+    "Unidade":"IRF Dionísio Cerqueira",
+    "Logradouro":"Rua República Argentina, nº 140",
+    "Bairro":"Centro",
+    "Cidade":"Dionísio Cerqueira",
+    "Estado":"SC",
+    "CEP":"89950-000"
+  },
+  {
+    "Unidade":"IRF Guaíra",
+    "Logradouro":"Rua Castro Alves, nº 359",
+    "Bairro":"Centro",
+    "Cidade":"Guaíra",
+    "Estado":"PR",
+    "CEP":"85980-000"
+  },
+  {
+    "Unidade":"IRF Ilhéus",
+    "Logradouro":"Rua Visconde de Mauá, nº 524",
+    "Bairro":"Cidade Nova",
+    "Cidade":"Ilhéus",
+    "Estado":"BA",
+    "CEP":"45652-042"
+  },
+  {
+    "Unidade":"IRF Itacoatiara",
+    "Logradouro":"Avenida Torquato Tapajós, nº 883",
+    "Bairro":"Centro",
+    "Cidade":"Itacoatiara",
+    "Estado":"AM",
+    "CEP":"69100-003"
+  },
+  {
+    "Unidade":"IRF Óbidos",
+    "Logradouro":"Rua Siqueira Campos, nº 196",
+    "Bairro":"Comercial",
+    "Cidade":"Óbidos",
+    "Estado":"PA",
+    "CEP":"68250-000"
+  },
+  {
+    "Unidade":"IRF Oiapoque",
+    "Logradouro":"Rua Joaquim Caetano da Silva, nº 950",
+    "Bairro":"Centro",
+    "Cidade":"Oiapoque",
+    "Estado":"AP",
+    "CEP":"68980-000"
+  },
+  {
+    "Unidade":"IRF Paracaíma",
+    "Logradouro":"Av Panamericana, S/N",
+    "Bairro":"Centro",
+    "Cidade":"Pacaraima",
+    "Estado":"RR",
+    "CEP":"69301-061"
+  },
+  {
+    "Unidade":"IRF Petrolina",
+    "Logradouro":"Avenida Dr. Fernando Goes, nº 165",
+    "Bairro":"Centro",
+    "Cidade":"Petrolina",
+    "Estado":"PE",
+    "CEP":"56304-020"
+  },
+  {
+    "Unidade":"IRF Placido de Castro",
+    "Logradouro":"Avenida Epitácio Pessoa, nº 288",
+    "Bairro":"Centro",
+    "Cidade":"Plácido de Castro",
+    "Estado":"AC",
+    "CEP":"69928-000"
+  },
+  {
+    "Unidade":"IRF Porto Seguro",
+    "Logradouro":"Avenida dos Navegantes, nº 107",
+    "Bairro":"Centro",
+    "Cidade":"Porto Seguro",
+    "Estado":"BA",
+    "CEP":"45810-000"
+  },
+  {
+    "Unidade":"IRF Santa Helena",
+    "Logradouro":"Avenida Brasil, nº 1481",
+    "Bairro":"Centro",
+    "Cidade":"Santa Helena",
+    "Estado":"PR",
+    "CEP":"85892-000"
+  },
+  {
+    "Unidade":"IRF Santana",
+    "Logradouro":"Avenida Santana, nº 304",
+    "Bairro":"Área Portuária",
+    "Cidade":"Santana",
+    "Estado":"AP",
+    "CEP":"68925-000"
+  },
+  {
+    "Unidade":"IRF Santo Antônio do Sudoeste",
+    "Logradouro":"Rua Ramalho Piva, nº 78",
+    "Bairro":"",
+    "Cidade":"Sto Ant. do Sudoeste",
+    "Estado":"PR",
+    "CEP":"85710-000"
+  },
+  {
+    "Unidade":"IRF São Miguel do Oeste",
+    "Logradouro":"Rua Padre Aurélio Canzi, nº 1881",
+    "Bairro":"Centro",
+    "Cidade":"São Miguel do Oeste",
+    "Estado":"SC",
+    "CEP":"89900-000"
+  },
+  {
+    "Unidade":"IRF São Sebastião",
+    "Logradouro":"Av. Altino Arantes, nº 614",
+    "Bairro":"Centro",
+    "Cidade":"São Sebastião",
+    "Estado":"SP",
+    "CEP":"11600-000"
+  },
+  {
+    "Unidade":"IRF Tabatinga",
+    "Logradouro":"Rua Duarte Coelho, nº 11",
+    "Bairro":"Portobras",
+    "Cidade":"Tabatinga",
+    "Estado":"AM",
+    "CEP":"69640-000"
+  },
+  {
+    "Unidade":"IRF Vilhena",
+    "Logradouro":"Avenida Sabino Bezerra de Queiroz, nº 4837",
+    "Bairro":"Jardim Eldorado",
+    "Cidade":"Vilhena",
+    "Estado":"RO",
+    "CEP":"76980-000"
+  }
+]
